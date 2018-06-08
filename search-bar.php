@@ -1,0 +1,41 @@
+
+
+
+
+        <div class="col-lg-3 col-sm-4 ">
+          <div class="search-form">
+            <h4><span class="glyphicon glyphicon-search"></span> Search for</h4>
+            <input type="text" class="form-control" placeholder="Search of Products">
+            <div class="row">
+                    <div class="col-lg-5">
+                      <select class="form-control">
+                        <option>Promo</option>
+                        <option>Rent</option>
+                        <option>Sale</option>
+                      </select>
+                    </div>
+                    <div class="col-lg-7">
+                      <select class="form-control">
+                        <option>Price</option>
+                        <option>$150,000 - $200,000</option>
+                        <option>$200,000 - $250,000</option>
+                        <option>$250,000 - $300,000</option>
+                        <option>$300,000 - above</option>
+                      </select>
+                    </div>
+            </div>
+            <div class="row">
+              <div class="col-lg-12">
+                  <select class="form-control">
+                      <option>Property Type</option>
+                      <option>Apartment</option>
+                      <option>Building</option>
+                      <option>Office Space</option>
+                  </select>
+              </div>
+            </div>
+            <button class="btn btn-primary">Find Now</button>
+          </div>
+        
+          <?php include'hot-products.php';?>
+        </div>
