@@ -19,7 +19,7 @@
                           <p>With registration with us new world of fashion, fantastic discounts and much more opens to you! The whole process will not take you more than a minute!</p>
                           <p class="text-muted">If you have any questions, please feel free to <a href="contact.php">contact us</a>, our customer service center is working for you 24/7.</p>
                           <hr>
-                          <form action="account.php" method="get">
+                          <form action="my-account.php" method="get">
                             <div class="form-group">
                               <label for="name-login">Name</label>
                               <input id="name-login" type="text" class="form-control">
@@ -44,7 +44,7 @@
                           <p class="lead">Already our customer?</p>
                           <p class="text-muted">Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
                           <hr>
-                          <form action="account.php" method="get">
+                          <form action="my-account.php" method="get">
                             <div class="form-group">
                               <label for="email">Email</label>
                               <input id="email" type="text" class="form-control">

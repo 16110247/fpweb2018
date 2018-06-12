@@ -8,76 +8,128 @@
 </div>
 <!-- banner -->
 
-<div class="container">
-	<div class="row">
-	  	<?php include'menu-profile.php';?>
-		<div class="panel-body col-lg-9 col-md-9 col-sm-8">
-		   	<div class="user-information">
-		   		<h3>My Account -> Setting</h3>
-				<form class="form-horizontal">
-					<!-- Text input-->
-							<div class="form-group">
-								  <label class="col-md-4 control-label" for="textinput">Change Email ID</label>  
-								  <div class="col-md-4">
-								  <input id="textinput" name="textinput" type="text" placeholder="your new email " class="form-control input-md">
-								  <span class="help-block">your new email ID</span>  
-								  </div>
-							</div>
+<section id="accounts">
+	<div class="container">
+		<div class="row">
+		  	<?php include'menu-profile.php';?>
+		  	<div class="panel-body col-lg-9 col-md-9 col-sm-8">
+			            <div id="customer-account" class="col-lg-9 clearfix">
+			              <p class="lead">Change your personal details or your password here.</p>
+			              <p class="text-muted">Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
+			              <div class="box mt-5">
+			                <div class="heading">
+			                  <h3 class="text-uppercase">Change password</h3>
+			                </div>
+			                <form>
+			                  <div class="row">
+			                    <div class="col-md-6">
+			                      <div class="form-group">
+			                        <label for="password_old">Old password</label>
+			                        <input id="password_old" type="password" class="form-control">
+			                      </div>
+			                    </div>
+			                  </div>
+			                  <div class="row">
+			                    <div class="col-md-6">
+			                      <div class="form-group">
+			                        <label for="password_1">New password</label>
+			                        <input id="password_1" type="password" class="form-control">
+			                      </div>
+			                    </div>
+			                    <div class="col-md-6">
+			                      <div class="form-group">
+			                        <label for="password_2">Retype new password</label>
+			                        <input id="password_2" type="password" class="form-control">
+			                      </div>
+			                    </div>
+			                  </div>
+			                  <div class="text-center">
+			                    <button type="submit" class="btn btn-template-outlined"><i class="fa fa-save"></i> Save new password</button>
+			                  </div>
+			                </form>
+			              </div>
+			              <div class="bo3">
+			                <div class="heading">
+			                  <h3 class="text-uppercase">Personal details</h3>
+			                </div>
+			                <form>
+			                  <div class="row">
+			                    <div class="col-md-6">
+			                      <div class="form-group">
+			                        <label for="firstname">Firstname</label>
+			                        <input id="firstname" type="text" class="form-control">
+			                      </div>
+			                    </div>
+			                    <div class="col-md-6">
+			                      <div class="form-group">
+			                        <label for="lastname">Lastname</label>
+			                        <input id="lastname" type="text" class="form-control">
+			                      </div>
+			                    </div>
+			                  </div>
+			                  <div class="row">
+			                    <div class="col-md-6">
+			                      <div class="form-group">
+			                        <label for="company">Company</label>
+			                        <input id="company" type="text" class="form-control">
+			                      </div>
+			                    </div>
+			                    <div class="col-md-6">
+			                      <div class="form-group">
+			                        <label for="street">Street</label>
+			                        <input id="street" type="text" class="form-control">
+			                      </div>
+			                    </div>
+			                  </div>
+			                  <div class="row">
+			                    <div class="col-md-6 col-lg-3">
+			                      <div class="form-group">
+			                        <label for="city">Company</label>
+			                        <input id="city" type="text" class="form-control">
+			                      </div>
+			                    </div>
+			                    <div class="col-md-6 col-lg-3">
+			                      <div class="form-group">
+			                        <label for="zip">ZIP</label>
+			                        <input id="zip" type="text" class="form-control">
+			                      </div>
+			                    </div>
+			                    <div class="col-md-6 col-lg-3">
+			                      <div class="form-group">
+			                        <label for="state">State</label>
+			                        <select id="state" class="form-control"></select>
+			                      </div>
+			                    </div>
+			                    <div class="col-md-6 col-lg-3">
+			                      <div class="form-group">
+			                        <label for="country">Country</label>
+			                        <select id="country" class="form-control"></select>
+			                      </div>
+			                    </div>
+			                    <div class="col-md-6">
+			                      <div class="form-group">
+			                        <label for="phone">Telephone</label>
+			                        <input id="phone" type="text" class="form-control">
+			                      </div>
+			                    </div>
+			                    <div class="col-md-6">
+			                      <div class="form-group">
+			                        <label for="email_account">Email</label>
+			                        <input id="email_account" type="text" class="form-control">
+			                      </div>
+			                    </div>
+			                    <div class="col-md-12 text-center">
+			                      <button type="submit" class="btn btn-template-outlined"><i class="fa fa-save"></i> Save changes</button>
+			                    </div>
+			                  </div>
+			                </form>
+			              </div>
+			            </div>
+			</div>
+		</div>
+	</div>	
+</section>
 
-					<!-- Password input-->
-							<div class="form-group">
-								  <label class="col-md-4 control-label" for="passwordinput">New password</label>
-								  <div class="col-md-4">
-								    <input id="passwordinput" name="passwordinput" type="password" placeholder="new password" class="form-control input-md">
-								    
-								  </div>
-							</div>
-
-						<!-- Password input-->
-							<div class="form-group">
-								  <label class="col-md-4 control-label" for="passwordinput">Repeat password</label>
-								  <div class="col-md-4">
-								    <input id="passwordinput" name="passwordinput" type="password" placeholder="repeat password" class="form-control input-md">
-								    
-								  </div>
-							</div>
-
-						<!-- Select Basic -->
-							<div class="form-group">
-								  <label class="col-md-4 control-label" for="selectbasic">Set security question</label>
-								  <div class="col-md-4">
-								    <select id="selectbasic" name="selectbasic" class="form-control">
-								      <option value="1">Question 1</option>
-								      <option value="2">Question 2</option>
-								      <option value="3">Question 3</option>
-								    </select>
-								  </div>
-							</div>
-
-						<!-- Select Multiple -->
-							<div class="form-group">
-								  <label class="col-md-4 control-label" for="selectmultiple">Languages</label>
-								  <div class="col-md-4">
-								    <select id="selectmultiple" name="selectmultiple" class="form-control" multiple="multiple">
-								      <option value="1">Persian</option>
-								      <option value="2">English</option>
-								      <option value="3">Arabic</option>
-								    </select>
-								  </div>
-							</div>	
-
-						<!-- Button -->
-							<div class="form-group">
-									<div class="submit">
-									    <button id="singlebutton" name="singlebutton" class="btn btn-danger">Remove</button>
-									    <button id="singlebutton" name="singlebutton" class="btn btn-success">Submit</button>
-									</div>
-							</div>							
-				</form>
-		   	</div>
-        </div>
-	</div>
-</div>
 
 
 <?php include'footer.php';?>
