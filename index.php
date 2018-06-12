@@ -63,6 +63,17 @@
               </blockquote>
             </div>
           </div>
+          <div class="sl-slide" data-orientation="horizontal" data-slice1-rotation="-5" data-slice2-rotation="10" data-slice1-scale="2" data-slice2-scale="1">
+            <div class="sl-slide-inner">
+              <div class="bg-img bg-img-6"></div>
+              <h2><a href="#">2 Bed Rooms and 1 Dinning Room Aparment on Sale</a></h2>
+              <blockquote>              
+              <p class="location"><span class="glyphicon glyphicon-map-marker"></span> 1890 Syndey, Australia</p>
+              <p>Until he extends the circle of his compassion to all living things, man will not himself find peace.</p>
+              <cite>$ 20,000,000</cite>
+              </blockquote>
+            </div>
+          </div>
         </div><!-- /sl-slider -->
 
         <nav id="nav-dots" class="nav-dots">
