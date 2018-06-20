@@ -56,7 +56,7 @@ a.login-btn i, a.signup-btn i { margin-right: 10px;}
 
 .thumbnail{ background-color:#fff;}
 
-.header {padding: 20px 0;margin-top: 50px;}
+.header {padding: 15px 0;margin-top: 40px;}
 .header ul{list-style: none;margin: 0; padding: 0;margin-top: 25px;}
 .header ul li{ display: inline-block; padding: 0 0 0 40px;}
 .header ul li a{ font-size: 19px;font-family: din;text-transform: uppercase;}
@@ -65,6 +65,7 @@ a.login-btn i, a.signup-btn i { margin-right: 10px;}
 
 .navbar-blue{background-color: #2b7fb7;position: fixed; top: 0; right: 0;left: 0;width: 100%;z-index: 9999;}
 .navbar-blue .navbar-nav > li > a{font-size: 11px;padding-top: 10px;padding-bottom: 10px;font-family: din;text-transform: uppercase;color: white;}
+.navbar-blue .navbar-nav > li > a:hover{color: #2b7fb7;}
 .navbar-blue .navbar-nav > .active > a, .navbar-blue .navbar-nav > .active > a:hover, .navbar-blue .navbar-nav > .active > a:focus{background-color: #2574A9;color:#fff; }
 .login {padding: 10px;}
 .login > a.login-btn, a.signup-btn {font-size: 11px;padding-left: 5px;font-family: din;text-transform: uppercase;color: white;}
@@ -169,6 +170,9 @@ a.login-btn i, a.signup-btn i { margin-right: 10px;}
 .panel-body > ul > .nav-item{width: 100%;}
 .toppad{margin-top:20px;}
 .submit{text-align: center;}
+
+.partners div.partner{padding: 10px;margin: 5px;}
+
 
 
 /*footer*/

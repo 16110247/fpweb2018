@@ -39,9 +39,9 @@
 	font-weight: 700;
 	font-style: normal;
 	text-transform: uppercase;
-	padding:15px;
+	padding:10px;
 	display: inline-block;
-	background-color: #72b70f;
+	background-color: #2b7fb7;
 	border-radius: 5px;
 }
 
@@ -165,7 +165,7 @@
 
 
  .bg-img-1 {
-	background-image: url(../../assets/images/slider/1.jpg);
+	background-image: url(../../../images/slider/1.jpg);
 }
  .bg-img-2 {
 	background-image: url(../../../images/slider/2.jpg);

@@ -22,6 +22,10 @@
     	<script src="assets/bootstrap/js/bootstrap.js"></script>
       <!-- Bootstrap -->
 
+      <!-- Angular -->
+      <script type="text/javascript" src="assets/angular/angular.min.js"></script>
+      <script type="text/javascript" src="assets/angular/angular-route.min.js"></script>
+
       <!-- Owl Carousel -->
       <link rel="stylesheet" href="assets/owl-carousel/owl.carousel.css"/>
       <link rel="stylesheet" href="assets/owl-carousel/owl.theme.css"/>
