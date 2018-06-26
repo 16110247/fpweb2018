@@ -1,4 +1,3 @@
-<?php include'header.php';?>
 <!-- banner -->
 <div class="inside-banner">
   <div class="container"> 
@@ -15,7 +14,7 @@
   <div class="col-lg-8">
 
   <!-- blog detail -->
-  <h2>Creative business to takeover the market</h2>
+  <h2>DJI Series</h2>
   <div class="info">Posted on: Jan 20, 2013</div>
   <img src="images/blog/phantom 4 pro v2.0.png" class="thumbnail img-responsive"  alt="blog title">
  <p>Kamera yang ditingkatkan mutunya dilengkapi dengan sensor 20-megapiksel 1 inci yang mampu merekam video 4K / 60 fps dan Mode Burst diam pada 14 fps. Sistem FlightAutonomy mencakup lima sensor penglihatan untuk penghindaran hambatan 2 arah dan penghindaran hambatan pandangan ke depan. Adopsi paduan titanium dan magnesium alloy meningkat
@@ -86,10 +85,7 @@ kekakuan airframe dan mengurangi berat, membuat Phantom 4 Advanced lebih ringan 
                             </ul>
                 </div>
               </div>
-              
-              
-              
-            </div>
+  </div>
   <!-- tabs -->
 
 
@@ -97,5 +93,3 @@ kekakuan airframe dan mengurangi berat, membuat Phantom 4 Advanced lebih ringan 
 </div>
 </div>
 </div>
-
-<?php include'footer.php';?>
