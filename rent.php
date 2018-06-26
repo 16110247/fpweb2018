@@ -31,7 +31,7 @@
                         <img src="images/properties/1.jpg" class="img-responsive" alt="properties"/>
                         <div class="status sold">Sold</div>
                       </div>
-                      <h4><a href="product-detail.php">Royal Inn</a></h4>
+                      <h4><a href="#!/products/product-detail">Royal Inn</a></h4>
                       <p class="price">Price: $234,900</p>
                       <div class="listing-detail">
                         <span data-toggle="tooltip" data-placement="bottom" data-original-title="Bed Room">5</span>
@@ -39,7 +39,7 @@
                         <span data-toggle="tooltip" data-placement="bottom" data-original-title="Parking">2</span>
                         <span data-toggle="tooltip" data-placement="bottom" data-original-title="Kitchen">1</span>
                       </div>
-                      <a class="btn btn-primary" href="product-detail.php">View Details</a>
+                      <a class="btn btn-primary" href="#!/products/product-detail">View Details</a>
                   </div>
                 </div>
                 <!-- products -->
@@ -50,7 +50,7 @@
                         <img src="images/properties/1.jpg" class="img-responsive" alt="properties"/>
                         <div class="status sold">Sold</div>
                       </div>
-                      <h4><a href="product-detail.php">Royal Inn</a></h4>
+                      <h4><a href="#!/products/product-detail">Royal Inn</a></h4>
                       <p class="price">Price: $234,900</p>
                       <div class="listing-detail">
                         <span data-toggle="tooltip" data-placement="bottom" data-original-title="Bed Room">5</span>
@@ -58,7 +58,7 @@
                         <span data-toggle="tooltip" data-placement="bottom" data-original-title="Parking">2</span>
                         <span data-toggle="tooltip" data-placement="bottom" data-original-title="Kitchen">1</span>
                       </div>
-                      <a class="btn btn-primary" href="product-detail.php">View Details</a>
+                      <a class="btn btn-primary" href="#!/products/product-detail">View Details</a>
                   </div>
                 </div>
                 <!-- products -->
@@ -69,7 +69,7 @@
                         <img src="images/properties/1.jpg" class="img-responsive" alt="properties"/>
                         <div class="status sold">Sold</div>
                       </div>
-                      <h4><a href="product-detail.php">Royal Inn</a></h4>
+                      <h4><a href="#!/products/product-detail">Royal Inn</a></h4>
                       <p class="price">Price: $234,900</p>
                       <div class="listing-detail">
                         <span data-toggle="tooltip" data-placement="bottom" data-original-title="Bed Room">5</span>
@@ -77,7 +77,7 @@
                         <span data-toggle="tooltip" data-placement="bottom" data-original-title="Parking">2</span>
                         <span data-toggle="tooltip" data-placement="bottom" data-original-title="Kitchen">1</span>
                       </div>
-                      <a class="btn btn-primary" href="product-detail.php">View Details</a>
+                      <a class="btn btn-primary" href="#!/products/product-detail">View Details</a>
                   </div>
                 </div>
                 <!-- products --> 
@@ -88,7 +88,7 @@
                         <img src="images/properties/1.jpg" class="img-responsive" alt="properties"/>
                         <div class="status sold">Sold</div>
                       </div>
-                      <h4><a href="product-detail.php">Royal Inn</a></h4>
+                      <h4><a href="#!/products/product-detail">Royal Inn</a></h4>
                       <p class="price">Price: $234,900</p>
                       <div class="listing-detail">
                         <span data-toggle="tooltip" data-placement="bottom" data-original-title="Bed Room">5</span>
@@ -96,7 +96,7 @@
                         <span data-toggle="tooltip" data-placement="bottom" data-original-title="Parking">2</span>
                         <span data-toggle="tooltip" data-placement="bottom" data-original-title="Kitchen">1</span>
                       </div>
-                      <a class="btn btn-primary" href="product-detail.php">View Details</a>
+                      <a class="btn btn-primary" href="#!/products/product-detail">View Details</a>
                   </div>
                 </div>
                 <!-- products -->
@@ -107,7 +107,7 @@
                         <img src="images/properties/1.jpg" class="img-responsive" alt="properties"/>
                         <div class="status sold">Sold</div>
                       </div>
-                      <h4><a href="product-detail.php">Royal Inn</a></h4>
+                      <h4><a href="#!/products/product-detail">Royal Inn</a></h4>
                       <p class="price">Price: $234,900</p>
                       <div class="listing-detail">
                         <span data-toggle="tooltip" data-placement="bottom" data-original-title="Bed Room">5</span>
@@ -115,7 +115,7 @@
                         <span data-toggle="tooltip" data-placement="bottom" data-original-title="Parking">2</span>
                         <span data-toggle="tooltip" data-placement="bottom" data-original-title="Kitchen">1</span>
                       </div>
-                      <a class="btn btn-primary" href="product-detail.php">View Details</a>
+                      <a class="btn btn-primary" href="#!/products/product-detail">View Details</a>
                   </div>
                 </div>
                 <!-- products -->
@@ -126,7 +126,7 @@
                         <img src="images/properties/1.jpg" class="img-responsive" alt="properties"/>
                         <div class="status sold">Sold</div>
                       </div>
-                      <h4><a href="product-detail.php">Royal Inn</a></h4>
+                      <h4><a href="#!/products/product-detail">Royal Inn</a></h4>
                       <p class="price">Price: $234,900</p>
                       <div class="listing-detail">
                         <span data-toggle="tooltip" data-placement="bottom" data-original-title="Bed Room">5</span>
@@ -134,7 +134,7 @@
                         <span data-toggle="tooltip" data-placement="bottom" data-original-title="Parking">2</span>
                         <span data-toggle="tooltip" data-placement="bottom" data-original-title="Kitchen">1</span>
                       </div>
-                      <a class="btn btn-primary" href="product-detail.php">View Details</a>
+                      <a class="btn btn-primary" href="#!/products/product-detail">View Details</a>
                   </div>
                 </div>
                 <!-- products --> 
