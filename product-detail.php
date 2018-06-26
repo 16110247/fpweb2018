@@ -85,8 +85,6 @@
                                     <p>Abdul<br>081329431566</p>
                                 </div>
                             </div>
-                            <h6><span class="glyphicon glyphicon-home"></span> Availabilty</h6>
-                            <div class="listing-detail"><span data-toggle="tooltip" data-placement="bottom" data-original-title="Bed Room">5</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Living Room">2</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Parking">2</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Kitchen">1</span></div>
                         </div>
                         <div class="col-lg-12 col-sm-6 ">
                             <div class="enquiry">
