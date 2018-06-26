@@ -45,7 +45,7 @@
 
                                   <!-- Item 3 -->
                                   <div class="item">
-                                    <img src="images/drone/1.png" class="properties" alt="properties" />
+                                    <img src="images/drone/1.jpg" class="properties" alt="properties" />
                                   </div>
                                   <!-- #Item 3 -->
 
