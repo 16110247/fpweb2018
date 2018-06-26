@@ -28,7 +28,7 @@
                 <div class="col-lg-4 col-sm-6">
                   <div class="products">
                       <div class="image-holder">
-                        <img src="images/properties/1.jpg" class="img-responsive" alt="properties"/>
+                        <img src="images/rentdrone/1.jpg" class="img-responsive" alt="properties"/>
                         <div class="status sold">Sold</div>
                       </div>
                       <h4><a href="#!/products/product-detail">Royal Inn</a></h4>
@@ -47,7 +47,7 @@
                 <div class="col-lg-4 col-sm-6">
                   <div class="products">
                       <div class="image-holder">
-                        <img src="images/properties/1.jpg" class="img-responsive" alt="properties"/>
+                        <img src="images/rentdrone/1.jpg" class="img-responsive" alt="properties"/>
                         <div class="status sold">Sold</div>
                       </div>
                       <h4><a href="#!/products/product-detail">Royal Inn</a></h4>
@@ -66,7 +66,7 @@
                 <div class="col-lg-4 col-sm-6">
                   <div class="products">
                       <div class="image-holder">
-                        <img src="images/properties/1.jpg" class="img-responsive" alt="properties"/>
+                        <img src="images/rentdrone/1.jpg" class="img-responsive" alt="properties"/>
                         <div class="status sold">Sold</div>
                       </div>
                       <h4><a href="#!/products/product-detail">Royal Inn</a></h4>
@@ -85,7 +85,7 @@
                 <div class="col-lg-4 col-sm-6">
                   <div class="products">
                       <div class="image-holder">
-                        <img src="images/properties/1.jpg" class="img-responsive" alt="properties"/>
+                        <img src="images/rentdrone/1.jpg" class="img-responsive" alt="properties"/>
                         <div class="status sold">Sold</div>
                       </div>
                       <h4><a href="#!/products/product-detail">Royal Inn</a></h4>
@@ -104,7 +104,7 @@
                 <div class="col-lg-4 col-sm-6">
                   <div class="products">
                       <div class="image-holder">
-                        <img src="images/properties/1.jpg" class="img-responsive" alt="properties"/>
+                        <img src="images/rentdrone/1.jpg" class="img-responsive" alt="properties"/>
                         <div class="status sold">Sold</div>
                       </div>
                       <h4><a href="#!/products/product-detail">Royal Inn</a></h4>
@@ -123,7 +123,7 @@
                 <div class="col-lg-4 col-sm-6">
                   <div class="products">
                       <div class="image-holder">
-                        <img src="images/properties/1.jpg" class="img-responsive" alt="properties"/>
+                        <img src="images/rentdrone/5.jpg" class="img-responsive" alt="properties"/>
                         <div class="status sold">Sold</div>
                       </div>
                       <h4><a href="#!/products/product-detail">Royal Inn</a></h4>
