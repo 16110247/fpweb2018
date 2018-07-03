@@ -33,7 +33,7 @@
                         <img src="images/properties/1.jpg" class="img-responsive" alt="properties"/>
                         <div class="status sold">Sold</div>
                       </div>
-                      <h4><a href="/products/product-detail">Royal Inn</a></h4>
+                      <h4><a href="#!/products/product-detail">Royal Inn</a></h4>
                       <p class="price">Price: $234,900</p>
                       <div class="listing-detail">
                         <span data-toggle="tooltip" data-placement="bottom" data-original-title="Bed Room">5</span>
