@@ -14,13 +14,14 @@
   <div class="col-lg-8">
 
   <!-- blog detail -->
-  <h2>DJI Series</h2>
+  <h2>Spark</h2>
   <div class="info">Posted on: Jan 20, 2013</div>
-  <img src="images/blog/phantom 4 pro v2.0.png" class="thumbnail img-responsive"  alt="blog title">
- <p>Kamera yang ditingkatkan mutunya dilengkapi dengan sensor 20-megapiksel 1 inci yang mampu merekam video 4K / 60 fps dan Mode Burst diam pada 14 fps. Sistem FlightAutonomy mencakup lima sensor penglihatan untuk penghindaran hambatan 2 arah dan penghindaran hambatan pandangan ke depan. Adopsi paduan titanium dan magnesium alloy meningkat
-kekakuan airframe dan mengurangi berat, membuat Phantom 4 Advanced lebih ringan dari Phantom 4.</p>
- <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
- <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+  <img src="images/blog/spark.jpg" class="thumbnail img-responsive"  alt="blog title">
+ <p>DJI juga telah bekerja keras untuk memastikan bahwa mereka dapat menyediakan drone untuk pengguna dari segala usia. Sebelum versi drone anak-anak, drone dibuat terutama untuk orang dewasa dan remaja yang lebih tua. Ketika anak-anak yang lebih muda melihat drone, mereka ingin menikmatinya dan bersenang-senang dengan mereka. Karena ada kebutuhan untuk drone yang didedikasikan untuk tangan yang lebih kecil, DJI pindah untuk menggabungkan produk-produk baru yang dibuat dengan semua kelompok umur dalam pikiran.</p>
+ <p>Salah satu perbaikan utama yang dilihat oleh DJI adalah stabilisasi kamera untuk memastikan gambar yang indah dalam fokus dan tidak dikaburkan oleh gerakan. Peningkatan ini memungkinkan banyak pengguna kesempatan untuk mengambil foto yang pernah mereka coba tanpa keberuntungan. Sekarang, pengguna dapat memiliki keyakinan yang mereka butuhkan ketika mereka mencoba mengambil video atau foto dari atas.</p>
+ <p>Drone Spark baru dari DJI adalah kamera yang mudah dan menyenangkan yang bisa dinikmati siapa saja. Sebagai pemimpin dalam teknologi pencitraan udara dan dalam drone sipil, DJI menciptakan Spark, yang merupakan drone kecil yang cocok dan terangkat dari telapak tangan Anda. Dalam ulasan Spark DJI ini, kita akan membahas drone secara lebih detail, melihat Spesifikasi Spark DJI, dan memberi tahu Anda mengapa begitu banyak ulasan sambutan.</p>
+ <p>Drone DJI Spark lebih kecil dari copters drone lain yang Anda lihat di pasar dan ukurannya sebesar kaleng soda, mungkin sedikit lebih kecil atau lebih besar tergantung pada merek minuman. Drone ini pertama kali dirilis pada bulan Juni dan memiliki titik harga sekitar $ 500. Drone itu sendiri mampu merekam video dalam HD dan dilengkapi dengan stabilizer 2-sumbu pada kamera. Dengan kemampuan terbang hingga 31 mil per jam untuk total 16 menit per penerbangan, maka tidak mengherankan jika orang jatuh cinta dengan pesawat tanpa awak baru.</p>
+ <p>Salah satu fitur Spark yang paling penting adalah bahwa gerakan dikendalikan ketika berada dalam mode penerbangan. Ini berarti Anda dapat mengendalikan pesawat tanpa awak saat berada di udara dengan gerakan tangan atau jari Anda. Misalnya, Anda bisa memberi sinyal pada drone untuk mengambil foto Anda dari atas. Selain itu, Anda dapat melambai pada drone dan terbang sejauh 10 kaki dari Anda.</p>
   <!-- blog detail -->
 
 

@@ -14,13 +14,20 @@
   <div class="col-lg-8">
 
   <!-- blog detail -->
-  <h2>DJI Series</h2>
+  <h2>Mavic Air</h2>
   <div class="info">Posted on: Jan 20, 2013</div>
-  <img src="images/blog/phantom 4 pro v2.0.png" class="thumbnail img-responsive"  alt="blog title">
- <p>Kamera yang ditingkatkan mutunya dilengkapi dengan sensor 20-megapiksel 1 inci yang mampu merekam video 4K / 60 fps dan Mode Burst diam pada 14 fps. Sistem FlightAutonomy mencakup lima sensor penglihatan untuk penghindaran hambatan 2 arah dan penghindaran hambatan pandangan ke depan. Adopsi paduan titanium dan magnesium alloy meningkat
-kekakuan airframe dan mengurangi berat, membuat Phantom 4 Advanced lebih ringan dari Phantom 4.</p>
- <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
- <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+  <img src="images/blog/mavic-air.png" class="thumbnail img-responsive"  alt="blog title">
+ <p>Ulasan DJI Mavic Air ini melihat fitur luar biasa dan menjawab banyak pertanyaan Anda mengenai quadcopter baru ini. Mavic Air adalah prestasi lain dari desain yang elegan dan teknologi inovatif baru dari DJI.
+
+DJI Mavic Air ini memiliki berat kurang dari 16 ons, ukurannya kecil dan sangat ramping. Ini melipat dengan rapi dan mudah dibawa. Untuk ukurannya, Mavic Air dikemas dengan banyak teknologi baru yang menakjubkan.
+
+DJI telah menciptakan quadcopter yang menyenangkan, yang super mudah untuk terbang. Ini memiliki beberapa teknologi yang luar biasa seperti pengakuan gerakan cerdas, 3 sumbu gimbal, 4k kamera, 3 arah deteksi hambatan pendeteksian. Mavic Air mengikuti saya pelacakan aktif orang atau benda lebih maju daripada Spark atau Mavic Pro</p>
+ <p>Kamera dan mode penerbangan cerdas memungkinkan Anda mengambil bidikan cepat dari berbagai sudut. Mavic Air dapat mengambil 4 jenis bidikan Panorama dan memiliki sistem pencahayaan cerdas untuk membantu Anda mendapatkan pencahayaan yang sempurna dalam foto udara Anda.
+
+The Mavic Air terbang selama 21 menit dengan transmisi video 4 km (2,48 mil). Ini memiliki 10 km jangkauan penerbangan maks tanpa angin dan memiliki ketinggian maksimum di atas permukaan laut 5 km (3,1 mil) yang benar-benar WOW.</p>
+ <p>Dalam ulasan Mavic Air ini, Anda akan membaca semua tentang fitur dan spesifikasi ini dengan beberapa video Mavic Air yang hebat di sepanjang jalan.
+
+Pendahulunya Mavic Air adalah Mavic Pro dan juga quadcopter yang luar biasa. Ini lebih besar dari Mavic Air dengan waktu penerbangan yang lebih lama dan memiliki banyak pilihan kamera. Muncul dalam beberapa gaya yang berbeda termasuk versi Platinum dan Alpine putih. Berikut ini ulasan lengkap Mavic Pro yang memungkinkan Anda membandingkan Air dan Pro.</p>
   <!-- blog detail -->
 
 
