@@ -33,8 +33,8 @@
                         <img src="images/properties/1.jpg" class="img-responsive" alt="properties"/>
                         <div class="status sold">Sold</div>
                       </div>
-                      <h4><a href="#!/products/product-detail">Royal Inn</a></h4>
-                      <p class="price">Price: $234,900</p>
+                      <h4><a href="#!/products/product-detail">Inspire 1</a></h4>
+                      <p class="price">Price: RP.234,900</p>
                       <a class="btn btn-primary" href="#!/products/product-detail">View Details</a>
                   </div>
                 </div>
