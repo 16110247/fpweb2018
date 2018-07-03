@@ -1,4 +1,4 @@
-<?php include'header.php';?>
+
 <!-- banner -->
 <div class="inside-banner">
   <div class="container"> 
@@ -19,4 +19,3 @@
 
 
 
-<?php include'footer.php';?>

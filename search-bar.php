@@ -27,10 +27,10 @@
             <div class="row">
               <div class="col-lg-12">
                   <select class="form-control">
-                      <option>Property Type</option>
-                      <option>Apartment</option>
-                      <option>Building</option>
-                      <option>Office Space</option>
+                      <option>Drone Type</option>
+                      <option>Race</option>
+                      <option>Blala</option>
+                      <option>lakjs</option>
                   </select>
               </div>
             </div>

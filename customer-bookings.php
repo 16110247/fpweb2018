@@ -1,5 +1,5 @@
 
-<?php include'header.php';?>
+
 <!-- banner -->
 <div class="inside-banner">
   <div class="container"> 
@@ -14,7 +14,7 @@
           <?php include'menu-profile.php';?>
 
           <div id="customer-orders" class="col-md-9 spacer">
-              <p class="text-muted lead">If you have any questions, please feel free to <a href="contact.php">contact us</a>, our customer service center is working for you 24/7.</p>
+              <p class="text-muted lead">If you have any questions, please feel free to <a href="#!/contact">contact us</a>, our customer service center is working for you 24/7.</p>
               <div class="box mt-0 mb-lg-0">
                 <div class="table-responsive">
                   <table class="table table-hover">
@@ -33,35 +33,35 @@
                         <td>22/06/2013</td>
                         <td>$ 150.00</td>
                         <td><span class="badge badge-info">Being prepared</span></td>
-                        <td><a href="book-details.php" class="btn btn-template-outlined btn-sm">View</a></td>
+                        <td><a href="#!/booking-detail" class="btn btn-template-outlined btn-sm">View</a></td>
                       </tr>
                       <tr>
                         <th># 1735</th>
                         <td>22/06/2013</td>
                         <td>$ 150.00</td>
                         <td><span class="badge badge-info">Being prepared</span></td>
-                        <td><a href="book-details.php" class="btn btn-template-outlined btn-sm">View</a></td>
+                        <td><a href="#!/booking-detail" class="btn btn-template-outlined btn-sm">View</a></td>
                       </tr>
                       <tr>
                         <th># 1735</th>
                         <td>22/06/2013</td>
                         <td>$ 150.00</td>
                         <td><span class="badge badge-success">Received</span></td>
-                        <td><a href="book-details.php" class="btn btn-template-outlined btn-sm">View</a></td>
+                        <td><a href="#!/booking-detail" class="btn btn-template-outlined btn-sm">View</a></td>
                       </tr>
                       <tr>
                         <th># 1735</th>
                         <td>22/06/2013</td>
                         <td>$ 150.00</td>
                         <td><span class="badge badge-danger">Cancelled</span></td>
-                        <td><a href="book-details.php" class="btn btn-template-outlined btn-sm">View</a></td>
+                        <td><a href="#!/booking-detail" class="btn btn-template-outlined btn-sm">View</a></td>
                       </tr>
                       <tr>
                         <th># 1735</th>
                         <td>22/06/2013</td>
                         <td>$ 150.00</td>
                         <td><span class="badge badge-warning">On hold</span></td>
-                        <td><a href="book-details.php" class="btn btn-template-outlined btn-sm">View</a></td>
+                        <td><a href="#!/booking-detail" class="btn btn-template-outlined btn-sm">View</a></td>
                       </tr>
                     </tbody>
                   </table>
@@ -71,7 +71,3 @@
         </div>
     </div>
 </section>
-
-
-
-<?php include'footer.php';?>

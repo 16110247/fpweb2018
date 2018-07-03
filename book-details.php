@@ -1,4 +1,4 @@
-<?php include'header.php';?>
+
 <!-- banner -->
 <div class="inside-banner">
   <div class="container"> 
@@ -14,7 +14,7 @@
 
           <div id="customer-order" class="col-lg-9 spacer">
               <p class="lead">Order #1735 was placed on <strong>22/06/2013</strong> and is currently <strong>Being prepared</strong>.</p>
-              <p class="lead text-muted">If you have any questions, please feel free to <a href="contact.php">contact us</a>, our customer service center is working for you 24/7.</p>
+              <p class="lead text-muted">If you have any questions, please feel free to <a href="#!/contact">contact us</a>, our customer service center is working for you 24/7.</p>
               <div class="box">
                 <div class="table-responsive">
                   <table class="table">
@@ -81,7 +81,3 @@
         </div>
     </div>
 </section>
-
-
-
-<?php include'footer.php';?>
