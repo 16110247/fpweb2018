@@ -16,7 +16,7 @@
             <?php include'side-bar.php';?>
 
             <div class="col-lg-9 col-sm-8 ">
-                <h2>phantom-2</h2>
+                <h2>Phantom 2</h2>
                 <div class="row">
                     <div class="col-lg-8">
                         <div class="property-images">
@@ -33,25 +33,25 @@
                                 <div class="carousel-inner">
                                   <!-- Item 1 -->
                                   <div class="item active">
-                                    <img src="images/drone/4.jpg" class="properties" alt="properties" />
+                                    <img src="images/drone/phantom-2.png" class="properties" alt="properties" />
                                   </div>
                                   <!-- #Item 1 -->
 
                                   <!-- Item 2 -->
                                   <div class="item">
-                                    <img src="images/drone/2.jpg" class="properties" alt="properties" />
+                                    <img src="images/drone/phantom-2.png" class="properties" alt="properties" />
                                   </div>
                                   <!-- #Item 2 -->
 
                                   <!-- Item 3 -->
                                   <div class="item">
-                                    <img src="images/drone/1.jpg" class="properties" alt="properties" />
+                                    <img src="images/drone/phantom-2.png" class="properties" alt="properties" />
                                   </div>
                                   <!-- #Item 3 -->
 
                                   <!-- Item 4 -->
                                   <div class="item ">
-                                    <img src="images/drone/3.jpg" class="properties" alt="properties" />
+                                    <img src="images/drone/phantom-2.png" class="properties" alt="properties" />
                                   </div>
                                   <!-- # Item 4 -->
                                 </div>
@@ -64,10 +64,16 @@
 
                         <div class="spacer">
                             <h4><span class="glyphicon glyphicon-th-list"></span> Produk Detail</h4>
-                            <p>Phantom 4 dibekali dengan Obstacle Sensing System yang nantinya akan digunakan untuk melakukan scanni atau screening objek yang ada didepannya. Gunanya untuk menghindar secara berputar, melewati atau hovering.</p>
-                            <p>DJI Phantom 4 dibekali dengan 4 sensor yang akan membuat maksimal hovering akurasi dan ketangguhan yang akan membuat nyaman pada saat mengudara. Sonar sistem yang ditambahakn juga membuat DJI Phantom 4 lebih stabil. Pada situasi yang ideal dengan gabungan dua teknologi tersebut akan mendapatkan hasil Vision Positioning System vertical hover akurasi +/- 0.1 m dan horizontal hover akurasi menjadi +/- 0.3 m.</p>
-                            <p>Kamera yang ditanamkan pada DJI Phantom 4 telah berkembang dari segi kualitas hasil gambar. Chromatic Aberration telah berkurang 56% dan distorsi pada lensa juga turun drastis hingga 36% dibandingkan dengan Phantom 4 Professional. Firmware pada kamera telah dapat menangkap gambar hingga 120fps pada saat video 1080p FHD. Kamera Phantom 4 juga dibekali untuk penggunaan Mode ActiveTrack dan Tapfly.</p>
-                            <p>Phantom 4 dapat melakukan olah data yang didapatkan dari IMU dan melakukan navigasi dengan sendirinya dengan data yang cukup akurat.</p>
+                            <h1>DESIGN & DURABILITY</h1>
+                            <p>It still comes with those sexy aerodynamic lines, and those famous red and green LED orientation lights. When speaking about its durability, if you know anyone that owns a DJI Phantom (any series), you will know that they are made of high-quality plastic, and are pretty durable. The props are elastic, and won’t damage that easily. This we say from personal experience.</p>
+                            <h1>CAMERA</h1>
+                            <p>The DJI Phantom 2 doesn’t come with a camera, but it does offer an amazing gimbal, which will make the footage amazingly stable as if you were filming on the ground using a tripod! The gimbal is meant to carry all GoPro Hero 3, Hero 3+ and GoPro Hero 4 Cameras (which you have to buy separately).</p>
+                            <h1>BATTERY & FLIGHT TIME</h1>
+                            <p>The Phantom 2 battery can be simply described as intelligent and long lasting! The 5200mAh high performance, high capacity, Lithium-Polymer battery allows the Phantom 2 to stay in the air for up to 25 minutes! You can’t get better than that!</p>
+                            <p>The battery is extremely reliable and safe while the integrated battery compartment allows you to change the battery in just a few seconds.</p>
+                            <h1>FLIGHT PERFORMANCE</h1>
+                            <p>Thanks to the amazing DJI’s technology, the drone practically flies itself.  Its GPS system and “Return to Home” feature, allow you to enjoy filming amazing footage, without having to worry too much about controlling the drone.</p>
+                            <p>The flight is as stable as it gets, and if you let your fingers of the control sticks, the drone simply stops and hovers in place. Now that is a really amazing feature! Thanks to the DJI technology, even when the conditions are windy, the drone will fly stable, and allow you to make great shots.</p>
                         </div>
                         <div>
                             <h4><span class="glyphicon glyphicon-map-marker"></span> Location</h4>
@@ -78,7 +84,7 @@
                     <div class="col-lg-4">
                         <div class="col-lg-12  col-sm-6">
                             <div class="product-info">
-                                <p class="price">Rp6.000.000.000/hari</p>
+                                <p class="price">Rp500.000/batrei</p>
                                 <p class="area"><span class="glyphicon glyphicon-map-marker"></span> Jl. Ring Road Utara, Condong Catur, Depok, Sleman, Jogyakrta</p>
                                 <div class="profile">
                                     <span class="glyphicon glyphicon-user"></span> Agent

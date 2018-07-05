@@ -16,7 +16,7 @@
             <?php include'side-bar.php';?>
 
             <div class="col-lg-9 col-sm-8 ">
-                <h2>Phantom-3-4K</h2>
+                <h2>Phantom 3 4K</h2>
                 <div class="row">
                     <div class="col-lg-8">
                         <div class="property-images">
@@ -33,25 +33,25 @@
                                 <div class="carousel-inner">
                                   <!-- Item 1 -->
                                   <div class="item active">
-                                    <img src="images/drone/4.jpg" class="properties" alt="properties" />
+                                    <img src="images/drone/Phantom-3-4K.jpg" class="properties" alt="properties" />
                                   </div>
                                   <!-- #Item 1 -->
 
                                   <!-- Item 2 -->
                                   <div class="item">
-                                    <img src="images/drone/2.jpg" class="properties" alt="properties" />
+                                    <img src="images/drone/Phantom-3-4K.jpg" class="properties" alt="properties" />
                                   </div>
                                   <!-- #Item 2 -->
 
                                   <!-- Item 3 -->
                                   <div class="item">
-                                    <img src="images/drone/1.jpg" class="properties" alt="properties" />
+                                    <img src="images/drone/Phantom-3-4K.jpg" class="properties" alt="properties" />
                                   </div>
                                   <!-- #Item 3 -->
 
                                   <!-- Item 4 -->
                                   <div class="item ">
-                                    <img src="images/drone/3.jpg" class="properties" alt="properties" />
+                                    <img src="images/drone/Phantom-3-4K.jpg" class="properties" alt="properties" />
                                   </div>
                                   <!-- # Item 4 -->
                                 </div>
@@ -64,10 +64,19 @@
 
                         <div class="spacer">
                             <h4><span class="glyphicon glyphicon-th-list"></span> Produk Detail</h4>
-                            <p>Phantom 4 dibekali dengan Obstacle Sensing System yang nantinya akan digunakan untuk melakukan scanni atau screening objek yang ada didepannya. Gunanya untuk menghindar secara berputar, melewati atau hovering.</p>
-                            <p>DJI Phantom 4 dibekali dengan 4 sensor yang akan membuat maksimal hovering akurasi dan ketangguhan yang akan membuat nyaman pada saat mengudara. Sonar sistem yang ditambahakn juga membuat DJI Phantom 4 lebih stabil. Pada situasi yang ideal dengan gabungan dua teknologi tersebut akan mendapatkan hasil Vision Positioning System vertical hover akurasi +/- 0.1 m dan horizontal hover akurasi menjadi +/- 0.3 m.</p>
-                            <p>Kamera yang ditanamkan pada DJI Phantom 4 telah berkembang dari segi kualitas hasil gambar. Chromatic Aberration telah berkurang 56% dan distorsi pada lensa juga turun drastis hingga 36% dibandingkan dengan Phantom 4 Professional. Firmware pada kamera telah dapat menangkap gambar hingga 120fps pada saat video 1080p FHD. Kamera Phantom 4 juga dibekali untuk penggunaan Mode ActiveTrack dan Tapfly.</p>
-                            <p>Phantom 4 dapat melakukan olah data yang didapatkan dari IMU dan melakukan navigasi dengan sendirinya dengan data yang cukup akurat.</p>
+                            <h1>Phantom 3 4K</h1>
+                            <p>Drone manufacturer DJI introduced its Phantom 3 line in 2015 and earlier this year, an upgrade was already done with the model. In January, just before the 2016 Consumer Electronics Week, the latest quadcopter flagship was introduced — the Phantom 3 4K. Let’s take a look at the newest camera drone.</p>
+                            <p>With its market price under $1000, the Phantom 3 4k is the newest video capturing equipment aspiring filmmakers will be glad to get their hands on, literally. Equipped with a mounted 4K camera with the capabilities of shooting true DCI cinema 4K videos at 24 or 25fps as well as HD at up to 60fps, taking shots is possible even up to ¾ of a mile from where the person controlling it is stationed. As for photographers, stills can be taken at 12MP in both DNG RAW and JPEG. Moreover, single shots are available, making it comparable to the Phantom 3 Professional.</p>
+                            <h1>Design And Features</h1>
+                            <p>This drone camera has all the features of the Phantom 3 Standard but with upgrades, from 4K video to an extended WiFi link. Built for aerial photography, its body is design with a 4K video mounted on a 3-axis gimbal. This camera comes with a kit complete with a smart battery charger, mobile device holder, propeller guards, handheld transmitter, cleaning cloth and two SanDisk 64 GB Extreme SD cards.</p>
+                            <h1>Video Recording </h1>
+                            <p>One of the upgrades of this model is its camera resolution of up to 4K video in HD and 12MP stills of DNG RAW and JPEG. For stabilization of the shots and a -90 to +30 degree tilt range, the camera is securely mounted on a 3-axis gimbal. Conversely, video resolutions in DCI 4K are at 24 to 25 fps, UHD 4K, from 24 t o30 fps and for 1080p and 720p, between 24 to 60 fps.</p>
+                            <h1>Wide Angle Lens </h1>
+                            <p>The Phantom 3 4K camera has a 94° angle-of-view lens, making it narrower than a fisheye but at the same time still maintains a wider view for taking shots. Aperture of the lens is at f/2.8 with 9 elements that includes an aspherical element.</p>
+                            <h1>Flight Battery</h1>
+                            <p>At the end of the device is the slot for the battery with an on/off switch and LED indicators which can be seen as the drone hovers above. This smart feature lets the user know of the time left for the camera drone until it needs to be recharged. Charging is similar with charging any smart device. Simply plug the battery into the outlet using the power cord that came with it.</p>
+                            <h1>Flight Controls</h1>
+                            <p>This camera allows the user to program the device for manageable filming and handling. It also has a Course Lock feature that allows the user to set the direction or path the device needs to go. The Waypoint feature and the Home features make it possible for the user to set the speed and altitude as well as send the drone back to the location it originated from.</p>
                         </div>
                         <div>
                             <h4><span class="glyphicon glyphicon-map-marker"></span> Location</h4>
@@ -78,7 +87,7 @@
                     <div class="col-lg-4">
                         <div class="col-lg-12  col-sm-6">
                             <div class="product-info">
-                                <p class="price">Rp6.000.000.000/hari</p>
+                                <p class="price">Rp500.000/batrei</p>
                                 <p class="area"><span class="glyphicon glyphicon-map-marker"></span> Jl. Ring Road Utara, Condong Catur, Depok, Sleman, Jogyakrta</p>
                                 <div class="profile">
                                     <span class="glyphicon glyphicon-user"></span> Agent

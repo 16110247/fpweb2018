@@ -16,7 +16,7 @@
             <?php include'side-bar.php';?>
 
             <div class="col-lg-9 col-sm-8 ">
-                <h2>phantom-3-se</h2>
+                <h2>Phantom 3 SE</h2>
                 <div class="row">
                     <div class="col-lg-8">
                         <div class="property-images">
@@ -33,25 +33,25 @@
                                 <div class="carousel-inner">
                                   <!-- Item 1 -->
                                   <div class="item active">
-                                    <img src="images/drone/4.jpg" class="properties" alt="properties" />
+                                    <img src="images/drone/phantom 3 se.png" class="properties" alt="properties" />
                                   </div>
                                   <!-- #Item 1 -->
 
                                   <!-- Item 2 -->
                                   <div class="item">
-                                    <img src="images/drone/2.jpg" class="properties" alt="properties" />
+                                    <img src="images/drone/phantom 3 se.png" class="properties" alt="properties" />
                                   </div>
                                   <!-- #Item 2 -->
 
                                   <!-- Item 3 -->
                                   <div class="item">
-                                    <img src="images/drone/1.jpg" class="properties" alt="properties" />
+                                    <img src="images/drone/phantom 3 se.png" class="properties" alt="properties" />
                                   </div>
                                   <!-- #Item 3 -->
 
                                   <!-- Item 4 -->
                                   <div class="item ">
-                                    <img src="images/drone/3.jpg" class="properties" alt="properties" />
+                                    <img src="images/drone/phantom 3 se.png" class="properties" alt="properties" />
                                   </div>
                                   <!-- # Item 4 -->
                                 </div>
@@ -64,10 +64,18 @@
 
                         <div class="spacer">
                             <h4><span class="glyphicon glyphicon-th-list"></span> Produk Detail</h4>
-                            <p>Phantom 4 dibekali dengan Obstacle Sensing System yang nantinya akan digunakan untuk melakukan scanni atau screening objek yang ada didepannya. Gunanya untuk menghindar secara berputar, melewati atau hovering.</p>
-                            <p>DJI Phantom 4 dibekali dengan 4 sensor yang akan membuat maksimal hovering akurasi dan ketangguhan yang akan membuat nyaman pada saat mengudara. Sonar sistem yang ditambahakn juga membuat DJI Phantom 4 lebih stabil. Pada situasi yang ideal dengan gabungan dua teknologi tersebut akan mendapatkan hasil Vision Positioning System vertical hover akurasi +/- 0.1 m dan horizontal hover akurasi menjadi +/- 0.3 m.</p>
-                            <p>Kamera yang ditanamkan pada DJI Phantom 4 telah berkembang dari segi kualitas hasil gambar. Chromatic Aberration telah berkurang 56% dan distorsi pada lensa juga turun drastis hingga 36% dibandingkan dengan Phantom 4 Professional. Firmware pada kamera telah dapat menangkap gambar hingga 120fps pada saat video 1080p FHD. Kamera Phantom 4 juga dibekali untuk penggunaan Mode ActiveTrack dan Tapfly.</p>
-                            <p>Phantom 4 dapat melakukan olah data yang didapatkan dari IMU dan melakukan navigasi dengan sendirinya dengan data yang cukup akurat.</p>
+                            <h1>Phantom 3 SE</h1>
+                            <p>Perfect for beginners or experienced drone operators, the Phantom 3 SE features the reliability, intuitive controls, excellent image quality, and powerful flight performance that make DJI’s Phantom series so iconic. With its 4K camera, 4 km control range, vision positioning system, and 25-minute flight time, users can experience the thrill of flying with incredible ease.</p>
+                            <h1>4K CAMERA</h1>
+                            <p>The Phantom 3 SE’s camera shoots 4K 30 fps video and 12 MP photos, delivering impressively clear and detailed images. Its custom-engineered lens features a 94° field of view, which is well-suited for aerial imaging and ensures your work always comes to life.</p>
+                            <h1>UPGRADED CONTROL RANGE</h1>
+                            <p>This Phantom’s newly enhanced Wi-Fi video transmission system allows you to fly farther while maintaining a crystal clear live camera view. The Phantom 3 SE offers reliable control and image transmission from up to 4 km away, so all you have to focus on is getting the best shots possible.</p>
+                            <h1>EASY TO USE</h1>
+                            <p>Expertly designed hardware combined with the DJI GO app makes aerial photography just as easy as shooting with a smartphone. Intelligent Flight Modes like Course Lock and Point of Interest help you fly and shoot like a pro, and industry-leading flight control technologies mean you can always fly with your mind at ease.</p>
+                            <h1>VISION POSITIONING</h1>
+                            <p>Equipped with a vision positioning system, the Phantom 3 SE hovers precisely and flies steadily, even without GPS signal. Ultrasonic and vision sensors measure the altitude and speed of the aircraft, providing users the information they need to fly safely.</p>
+                            <h1>25-MINUTE FLIGHT TIME</h1>
+                            <p>The Phantom 3 SE offers up to 25 minutes of flight with an advanced battery management system that offers intelligent charging and discharging protection to ensure longevity.</p>
                         </div>
                         <div>
                             <h4><span class="glyphicon glyphicon-map-marker"></span> Location</h4>
@@ -78,7 +86,7 @@
                     <div class="col-lg-4">
                         <div class="col-lg-12  col-sm-6">
                             <div class="product-info">
-                                <p class="price">Rp6.000.000.000/hari</p>
+                                <p class="price">Rp500.000/batrei</p>
                                 <p class="area"><span class="glyphicon glyphicon-map-marker"></span> Jl. Ring Road Utara, Condong Catur, Depok, Sleman, Jogyakrta</p>
                                 <div class="profile">
                                     <span class="glyphicon glyphicon-user"></span> Agent

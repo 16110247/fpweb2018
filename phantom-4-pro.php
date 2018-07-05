@@ -16,7 +16,7 @@
             <?php include'side-bar.php';?>
 
             <div class="col-lg-9 col-sm-8 ">
-                <h2>phantom-4-pro</h2>
+                <h2>Phantom 4 Pro</h2>
                 <div class="row">
                     <div class="col-lg-8">
                         <div class="property-images">
@@ -33,25 +33,25 @@
                                 <div class="carousel-inner">
                                   <!-- Item 1 -->
                                   <div class="item active">
-                                    <img src="images/drone/4.jpg" class="properties" alt="properties" />
+                                    <img src="images/drone/phantom 4 pro.png" class="properties" alt="properties" />
                                   </div>
                                   <!-- #Item 1 -->
 
                                   <!-- Item 2 -->
                                   <div class="item">
-                                    <img src="images/drone/2.jpg" class="properties" alt="properties" />
+                                    <img src="images/drone/phantom 4 pro.png" class="properties" alt="properties" />
                                   </div>
                                   <!-- #Item 2 -->
 
                                   <!-- Item 3 -->
                                   <div class="item">
-                                    <img src="images/drone/1.jpg" class="properties" alt="properties" />
+                                    <img src="images/drone/phantom 4 pro.png" class="properties" alt="properties" />
                                   </div>
                                   <!-- #Item 3 -->
 
                                   <!-- Item 4 -->
                                   <div class="item ">
-                                    <img src="images/drone/3.jpg" class="properties" alt="properties" />
+                                    <img src="images/drone/phantom 4 pro.png" class="properties" alt="properties" />
                                   </div>
                                   <!-- # Item 4 -->
                                 </div>
@@ -64,10 +64,20 @@
 
                         <div class="spacer">
                             <h4><span class="glyphicon glyphicon-th-list"></span> Produk Detail</h4>
-                            <p>Phantom 4 dibekali dengan Obstacle Sensing System yang nantinya akan digunakan untuk melakukan scanni atau screening objek yang ada didepannya. Gunanya untuk menghindar secara berputar, melewati atau hovering.</p>
-                            <p>DJI Phantom 4 dibekali dengan 4 sensor yang akan membuat maksimal hovering akurasi dan ketangguhan yang akan membuat nyaman pada saat mengudara. Sonar sistem yang ditambahakn juga membuat DJI Phantom 4 lebih stabil. Pada situasi yang ideal dengan gabungan dua teknologi tersebut akan mendapatkan hasil Vision Positioning System vertical hover akurasi +/- 0.1 m dan horizontal hover akurasi menjadi +/- 0.3 m.</p>
-                            <p>Kamera yang ditanamkan pada DJI Phantom 4 telah berkembang dari segi kualitas hasil gambar. Chromatic Aberration telah berkurang 56% dan distorsi pada lensa juga turun drastis hingga 36% dibandingkan dengan Phantom 4 Professional. Firmware pada kamera telah dapat menangkap gambar hingga 120fps pada saat video 1080p FHD. Kamera Phantom 4 juga dibekali untuk penggunaan Mode ActiveTrack dan Tapfly.</p>
-                            <p>Phantom 4 dapat melakukan olah data yang didapatkan dari IMU dan melakukan navigasi dengan sendirinya dengan data yang cukup akurat.</p>
+                            <h1>Phantom 4 Pro</h1>
+                            <p>An uprated camera is equipped with a 1-inch 20-megapixel sensor capable of shooting 4K/60fps video and Burst Mode stills at 14 fps. The adoption of titanium alloy and magnesium alloy construction increases the rigidity of the airframe and reduces weight, making the Phantom 4 Pro similar in weight to the Phantom 4. The FlightAutonomy system adds dual rear vision sensors and infrared sensing systems for a total of 5-direction of obstacle sensing and 4-direction of obstacle avoidance.</p>
+                            <h1>CAMERA WITH 1-INCH 20MP SENSOR</h1>
+                            <p>The onboard camera has been redesigned to use a 1-inch 20-megapixel CMOS sensor. A custom engineered lens made up of eight elements is arranged in seven groups, it is the first DJI camera to use a mechanical shutter, eliminating rolling shutter distortion which can occur when taking images of fast moving subjects or when flying at high speed. In effect, it is as powerful as many traditional ground cameras. More powerful video processing supports H.264 4K videos at 60fps or H.265 4K at 30fps, both with a 100Mbps bitrate. Advanced sensors and processors ensure everything is captured with more image detail and the image data needed for advanced post-production.</p>
+                            <h1>1-INCH 20-MEGAPIXEL CMOS</h1>
+                            <p>Sensor size is more important to image quality than the number of pixels because a larger sensor captures more information in every pixel, improving dynamic range, signal-to-noise ratio, and low light performance. The 1-inch 20-megapixel CMOS sensor in the Phantom 4 Pro is almost four times the size of the Phantom 4's 1/2.3in sensor. It uses larger pixels and has a maximum ISO of 12800 as well as increased contrast. It is good enough for images to be used immediately, while also capturing enough detail for advanced post-processing.</p>
+                            <h1>PRODUCTION OPTIMIZED 4K</h1>
+                            <p>An enhanced video processing system allows video to be captured in cinema and production optimized DCI 4K/60 (4096 x 2160/60fps) at a bitrate of 100Mbps, enabling you to get high-resolution slow motion shots. The Phantom 4 Pro also supports the H.265 video codec (Maximum resolution 4096X2160/30fps). For a given bitrate, H.265 doubles the amount of image processing as H.264, resulting in significantly enhanced image quality. Record in the high dynamic range D-log mode to make the most of this image data for color grading.</p>
+                            <h1>HIGH RESOLUTION LENS</h1>
+                            <p>The resolution and contrast of a lens is critical to image quality, because only a quality lens can capture sharp, vivid photos at high resolutions. The brand new Phantom 4 Pro camera has an aerial optimized F2.8 wide-angle lens with a 24mm equivalent focal length. It features eight elements – 2 aspherical – arranged in seven groups that fit into a smaller, more compact frame. Its images are consistently detailed with low distortion and low dispersion, ensuring that photos and videos are sharp and vivid. For the first time ever with a DJI camera, MTF (Modulation Transfer Function) results have been made public, so people can get a better understanding of lens performance.</p>
+                            <h1>5-DIRECTION OF OBSTACLE SENSING</h1>
+                            <p>FlightAutonomy is expanded with an additional set of high-resolution stereo vision sensors placed at the rear in addition to the pair placed at the front as well as infrared sensing systems placed on the left and right sides. This network creates a total of 5-direction of obstacle sensing and 4-direction of obstacle avoidance, protecting the Phantom 4 Pro from more obstacles and giving filmmakers the confidence to capture more complex images.</p>
+                            <h1>INFRARED SENSING SYSTEM</h1>
+                            <p>The Phantom 4 Pro is the first DJI aircraft to use an infrared sensing system. Placed on the left, and right sides of the aircraft, these measure the distance between the aircraft and any obstacles using infrared 3D scanning. When in Beginner Mode and Tripod Mode, these sensors have a horizontal field of view of 70° and a vertical field of view of 20°, providing a wide view of the scene to the sides of the Phantom, and a maximum range of 23ft (7m). Traditional ultrasonic sensors only have a detection range of 3-5m and may be confused when affected by propeller vibration. The infrared sensing system is able to sense larger areas and measure the distance between the aircraft, identifying the closest objects accurately while avoiding interference, providing more reliable sensing and protection.</p>
                         </div>
                         <div>
                             <h4><span class="glyphicon glyphicon-map-marker"></span> Location</h4>
@@ -78,7 +88,7 @@
                     <div class="col-lg-4">
                         <div class="col-lg-12  col-sm-6">
                             <div class="product-info">
-                                <p class="price">Rp6.000.000.000/hari</p>
+                                <p class="price">Rp500.000/batrei</p>
                                 <p class="area"><span class="glyphicon glyphicon-map-marker"></span> Jl. Ring Road Utara, Condong Catur, Depok, Sleman, Jogyakrta</p>
                                 <div class="profile">
                                     <span class="glyphicon glyphicon-user"></span> Agent

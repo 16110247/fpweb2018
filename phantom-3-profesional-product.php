@@ -16,7 +16,7 @@
             <?php include'side-bar.php';?>
 
             <div class="col-lg-9 col-sm-8 ">
-                <h2>phantom-3-profesional</h2>
+                <h2>Phantom 3 Profesional</h2>
                 <div class="row">
                     <div class="col-lg-8">
                         <div class="property-images">
@@ -33,25 +33,25 @@
                                 <div class="carousel-inner">
                                   <!-- Item 1 -->
                                   <div class="item active">
-                                    <img src="images/drone/4.jpg" class="properties" alt="properties" />
+                                    <img src="images/drone/phantom 3 profesional.jpg" class="properties" alt="properties" />
                                   </div>
                                   <!-- #Item 1 -->
 
                                   <!-- Item 2 -->
                                   <div class="item">
-                                    <img src="images/drone/2.jpg" class="properties" alt="properties" />
+                                    <img src="images/drone/phantom 3 profesional.jpg" class="properties" alt="properties" />
                                   </div>
                                   <!-- #Item 2 -->
 
                                   <!-- Item 3 -->
                                   <div class="item">
-                                    <img src="images/drone/1.jpg" class="properties" alt="properties" />
+                                    <img src="images/drone/phantom 3 profesional.jpg" class="properties" alt="properties" />
                                   </div>
                                   <!-- #Item 3 -->
 
                                   <!-- Item 4 -->
                                   <div class="item ">
-                                    <img src="images/drone/3.jpg" class="properties" alt="properties" />
+                                    <img src="images/drone/phantom 3 profesional.jpg" class="properties" alt="properties" />
                                   </div>
                                   <!-- # Item 4 -->
                                 </div>
@@ -64,10 +64,12 @@
 
                         <div class="spacer">
                             <h4><span class="glyphicon glyphicon-th-list"></span> Produk Detail</h4>
-                            <p>Phantom 4 dibekali dengan Obstacle Sensing System yang nantinya akan digunakan untuk melakukan scanni atau screening objek yang ada didepannya. Gunanya untuk menghindar secara berputar, melewati atau hovering.</p>
-                            <p>DJI Phantom 4 dibekali dengan 4 sensor yang akan membuat maksimal hovering akurasi dan ketangguhan yang akan membuat nyaman pada saat mengudara. Sonar sistem yang ditambahakn juga membuat DJI Phantom 4 lebih stabil. Pada situasi yang ideal dengan gabungan dua teknologi tersebut akan mendapatkan hasil Vision Positioning System vertical hover akurasi +/- 0.1 m dan horizontal hover akurasi menjadi +/- 0.3 m.</p>
-                            <p>Kamera yang ditanamkan pada DJI Phantom 4 telah berkembang dari segi kualitas hasil gambar. Chromatic Aberration telah berkurang 56% dan distorsi pada lensa juga turun drastis hingga 36% dibandingkan dengan Phantom 4 Professional. Firmware pada kamera telah dapat menangkap gambar hingga 120fps pada saat video 1080p FHD. Kamera Phantom 4 juga dibekali untuk penggunaan Mode ActiveTrack dan Tapfly.</p>
-                            <p>Phantom 4 dapat melakukan olah data yang didapatkan dari IMU dan melakukan navigasi dengan sendirinya dengan data yang cukup akurat.</p>
+                            <h1>Design</h1>
+                            <p>Opening the DJI Phantom 3 Professional is a joy – everything is simply and beautifully presented, and there seems to be a conscious effort to get you started as quickly as possible. There are no special tools required to assemble the drone, and the quick start guide explains everything you need to get going. In theory, you could be up and running within the hour, although we’d highly encourage you to read the manual in full, check the local flying laws, and if possible, have someone with you who’s flown one of these things before.</p>
+                            <h1>PerformanceWe’ve talked a lot about the improvements made to the DJI Phantom 3 Professional without even mentioning the headline feature: 4K video recording. It’s a first for a drone at this price, and it’s no surprise that image quality blows DJI’s previous models and competing drones from Parrot out of the water. 4K video is recorded at up to 30 frames per second – it will impress amateur videographers, and it’ll even be good enough for a lot of professionals. We’d stop short of saying it’s “broadcast quality” – 4K video is recorded at a maximum bitrate of 60 Mbps, just above YouTube’s recommended guidelines for 4K, but probably not good enough for the makers of Game of Thrones. However, for a drone at this price, the video quality cannot be beaten.</h1>
+                            <h1>Should I buy the DJI Phantom 3 Professional?</h1>
+                            <p>If you’re an aerial photographer or videographer and want something that can shoot 4K video, then the DJI Phantom 3 Professional is the cheapest way to get it in an all-in-one package. If you’re a drone fanatic then you could build something yourself using off-the-shelf drone components and a GoPro camera, but if you’re looking for ease-of-use, the DJI Phantom 3 Professional is the best option.</p>
+                            <p>The Phantom 3 Professional’s 4K video looks great, even though the number of people who can enjoy video in this form is fairly limited. That’s why the drone’s many other improvements are probably more important to the majority of users. The numerous other improvements to the camera’s sensor mean that image quality is drastically improved no matter what resolution you’re viewing at, while the redesigned remote control makes high-quality aerial photography attainable for the first time on a DJI consumer-level drone.</p>
                         </div>
                         <div>
                             <h4><span class="glyphicon glyphicon-map-marker"></span> Location</h4>
@@ -78,7 +80,7 @@
                     <div class="col-lg-4">
                         <div class="col-lg-12  col-sm-6">
                             <div class="product-info">
-                                <p class="price">Rp6.000.000.000/hari</p>
+                                <p class="price">Rp500.000/batrei</p>
                                 <p class="area"><span class="glyphicon glyphicon-map-marker"></span> Jl. Ring Road Utara, Condong Catur, Depok, Sleman, Jogyakrta</p>
                                 <div class="profile">
                                     <span class="glyphicon glyphicon-user"></span> Agent
