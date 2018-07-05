@@ -28,12 +28,12 @@
                 <div class="col-lg-4 col-sm-6">
                   <div class="products">
                       <div class="image-holder">
-                        <img src="images/rentdrone/1.jpg" class="img-responsive" alt="properties"/>
-                        <div class="status sold">Sold</div>
+                        <img src="images/drone/phantom 3 se.png" class="img-responsive" alt="drone"/>
+                        <div class="status "></div>
                       </div>
-                      <h4><a href="#!/products/product-detail">Royal Inn</a></h4>
+                      <h4><a href="#!/products/phantom-3-se">Phantom SE</a></h4>
                       <p class="price">Price: $234,900</p>
-                      <a class="btn btn-primary" href="#!/products/product-detail">View Details</a>
+                      <a class="btn btn-primary" href="#!/products/phantom-3-se">View Details</a>
                   </div>
                 </div>
                 <!-- products -->
