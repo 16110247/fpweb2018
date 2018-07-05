@@ -88,7 +88,7 @@ a.login-btn i, a.signup-btn i { margin-right: 10px;}
 /* status product */
 .status.promo{background:rgba(102, 51, 153,0.8);}
 .status.sale{background:rgba(207, 0, 15,0.8);}
-.status.new{background:rgba(190,7,46,0.8);}
+.status.new{background:rgba(0,230,64,0.8);}
 
 .recommended{position: relative;}
 .recommended .carousel-indicators{position: absolute;text-align: left;left: 0;bottom: -40px;margin: 0;}
@@ -113,7 +113,7 @@ a.login-btn i, a.signup-btn i { margin-right: 10px;}
 .search-form {margin-bottom: 50px;}
 .search-form h4{margin: 17px 0;}
 
-.image-holder img{height: 130px;}
+.image-holder img{height: 150px;}
 
 
 .hot-products {margin-bottom: 50px;}

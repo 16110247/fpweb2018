@@ -8,7 +8,6 @@
 </div>
 <!-- banner -->
 
-
 <div class="container">
     <div class="products-listing spacer">
         <div class="row">
