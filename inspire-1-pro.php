@@ -16,7 +16,7 @@
             <?php include'side-bar.php';?>
 
             <div class="col-lg-9 col-sm-8 ">
-                <h2>inspire-1-pro </h2>
+                <h1>Inspire 1 Pro </h1>
                 <div class="row">
                     <div class="col-lg-8">
                         <div class="property-images">
@@ -33,25 +33,25 @@
                                 <div class="carousel-inner">
                                   <!-- Item 1 -->
                                   <div class="item active">
-                                    <img src="images/drone/4.jpg" class="properties" alt="properties" />
+                                    <img src="images/drone/inspire-1-pro.jpg" class="properties" alt="properties" />
                                   </div>
                                   <!-- #Item 1 -->
 
                                   <!-- Item 2 -->
                                   <div class="item">
-                                    <img src="images/drone/2.jpg" class="properties" alt="properties" />
+                                    <img src="images/drone/inspire-1-pro.jpg" class="properties" alt="properties" />
                                   </div>
                                   <!-- #Item 2 -->
 
                                   <!-- Item 3 -->
                                   <div class="item">
-                                    <img src="images/drone/1.jpg" class="properties" alt="properties" />
+                                    <img src="images/drone/inspire-1-pro.jpg" class="properties" alt="properties" />
                                   </div>
                                   <!-- #Item 3 -->
 
                                   <!-- Item 4 -->
                                   <div class="item ">
-                                    <img src="images/drone/3.jpg" class="properties" alt="properties" />
+                                    <img src="images/drone/inspire-1-pro.jpg" class="properties" alt="properties" />
                                   </div>
                                   <!-- # Item 4 -->
                                 </div>
@@ -64,10 +64,18 @@
 
                         <div class="spacer">
                             <h4><span class="glyphicon glyphicon-th-list"></span> Produk Detail</h4>
-                            <p>Phantom 4 dibekali dengan Obstacle Sensing System yang nantinya akan digunakan untuk melakukan scanni atau screening objek yang ada didepannya. Gunanya untuk menghindar secara berputar, melewati atau hovering.</p>
-                            <p>DJI Phantom 4 dibekali dengan 4 sensor yang akan membuat maksimal hovering akurasi dan ketangguhan yang akan membuat nyaman pada saat mengudara. Sonar sistem yang ditambahakn juga membuat DJI Phantom 4 lebih stabil. Pada situasi yang ideal dengan gabungan dua teknologi tersebut akan mendapatkan hasil Vision Positioning System vertical hover akurasi +/- 0.1 m dan horizontal hover akurasi menjadi +/- 0.3 m.</p>
-                            <p>Kamera yang ditanamkan pada DJI Phantom 4 telah berkembang dari segi kualitas hasil gambar. Chromatic Aberration telah berkurang 56% dan distorsi pada lensa juga turun drastis hingga 36% dibandingkan dengan Phantom 4 Professional. Firmware pada kamera telah dapat menangkap gambar hingga 120fps pada saat video 1080p FHD. Kamera Phantom 4 juga dibekali untuk penggunaan Mode ActiveTrack dan Tapfly.</p>
-                            <p>Phantom 4 dapat melakukan olah data yang didapatkan dari IMU dan melakukan navigasi dengan sendirinya dengan data yang cukup akurat.</p>
+                            <h2>DJI Inspire 1 Pro</h2>
+                            <p>The DJI Inspire 1 Pro and Inspire 1 RAW are the smallest, easiest professional aerial filmmaking platforms in the world. They combine DJI’s unparalleled leadership in aerial technology with world-class M4/3 imaging capabilities. Whether you are a professional photographer or a Hollywood filmmaker, the Inspire 1 Pro and Inspire 1 RAW are ready to take your work to new heights.</p>
+                            <h2>ZENMUSE X5 AND X5R</h2>
+                            <p>The Zenmuse X5 and X5R are among the smallest Micro 4/3 cameras ever made and the only M4/3 cameras designed specifically for aerial imaging. Both can capture ultra-clear 4K video at up to 30 frames per second and capture photos at 16 megapixels in Adobe DNG RAW. The Zenmuse X5R is also the first camera of this type able to shoot 4K raw video, making it perfect for professional filmmaking. As M4/3 cameras, you have a choice of lenses and also full wireless control over focus, aperture and more.</p>
+                            <h2>COMPREHENSIVE APP CONTROL</h2>
+                            <p>The DJI go app gives you an unprecedented level of control over your camera while you fly. Use the intuitive auto focus mode to compose the perfect shot and change everything from focus to shutter speed and aperture with the tap of a finger. Through the same app you also control how your Inspire flies, from auto take-off and landing, to fine tuning of your flying experience and even a set of intelligent flight modes.</p>
+                            <h2>POWER TO FLY</h2>
+                            <p>New propellers and motors designed with the Inspire 1 Pro and Inspire 1 RAW in mind keep the Inspire agile and fast. You can expect flight times of 15-18 minutes with Zenmuse X5 and 13-15 minutes with the Zenmuse X5R.</p>
+                            <h2>COMPLETE CONTROL</h2>
+                            <p>Use the Inspire 1 Pro or Inspire 1 RAW just like you would a camera, with a shutter button for stills and a record button for video built into the remote control. It also features a jog dial that allows you to change camera settings quickly, and customizable buttons for you to personalize. Plug the DJI Focus into the remote control to extend its reach as far as the Inspire 1 Pro or Inspire 1 RAW flies.</p>
+                            <h2>REMOTE FOCUS</h2>
+                            <p>Take control of your focus for the first time, and combine it with aperture control for another layer of creative freedom. Do you want to start on a shallow depth-of-field of your subject and then bring the background into sight? With remote focus control you can, with a tap of the screen inside the DJI GO app. Using the DJI Focus, you can even turn a dial just like you would turn a lens allowing for even more refined control.</p>
                         </div>
                         <div>
                             <h4><span class="glyphicon glyphicon-map-marker"></span> Location</h4>

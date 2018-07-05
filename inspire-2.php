@@ -16,7 +16,7 @@
             <?php include'side-bar.php';?>
 
             <div class="col-lg-9 col-sm-8 ">
-                <h2>inspire-2</h2>
+                <h2>Inspire 2</h2>
                 <div class="row">
                     <div class="col-lg-8">
                         <div class="property-images">
@@ -33,25 +33,25 @@
                                 <div class="carousel-inner">
                                   <!-- Item 1 -->
                                   <div class="item active">
-                                    <img src="images/drone/4.jpg" class="properties" alt="properties" />
+                                    <img src="images/drone/inspire-2.png" class="properties" alt="properties" />
                                   </div>
                                   <!-- #Item 1 -->
 
                                   <!-- Item 2 -->
                                   <div class="item">
-                                    <img src="images/drone/2.jpg" class="properties" alt="properties" />
+                                    <img src="images/drone/inspire-2.png" class="properties" alt="properties" />
                                   </div>
                                   <!-- #Item 2 -->
 
                                   <!-- Item 3 -->
                                   <div class="item">
-                                    <img src="images/drone/1.jpg" class="properties" alt="properties" />
+                                    <img src="images/drone/inspire-2.png" class="properties" alt="properties" />
                                   </div>
                                   <!-- #Item 3 -->
 
                                   <!-- Item 4 -->
                                   <div class="item ">
-                                    <img src="images/drone/3.jpg" class="properties" alt="properties" />
+                                    <img src="images/drone/inspire-2.png" class="properties" alt="properties" />
                                   </div>
                                   <!-- # Item 4 -->
                                 </div>
@@ -64,10 +64,22 @@
 
                         <div class="spacer">
                             <h4><span class="glyphicon glyphicon-th-list"></span> Produk Detail</h4>
-                            <p>Phantom 4 dibekali dengan Obstacle Sensing System yang nantinya akan digunakan untuk melakukan scanni atau screening objek yang ada didepannya. Gunanya untuk menghindar secara berputar, melewati atau hovering.</p>
-                            <p>DJI Phantom 4 dibekali dengan 4 sensor yang akan membuat maksimal hovering akurasi dan ketangguhan yang akan membuat nyaman pada saat mengudara. Sonar sistem yang ditambahakn juga membuat DJI Phantom 4 lebih stabil. Pada situasi yang ideal dengan gabungan dua teknologi tersebut akan mendapatkan hasil Vision Positioning System vertical hover akurasi +/- 0.1 m dan horizontal hover akurasi menjadi +/- 0.3 m.</p>
-                            <p>Kamera yang ditanamkan pada DJI Phantom 4 telah berkembang dari segi kualitas hasil gambar. Chromatic Aberration telah berkurang 56% dan distorsi pada lensa juga turun drastis hingga 36% dibandingkan dengan Phantom 4 Professional. Firmware pada kamera telah dapat menangkap gambar hingga 120fps pada saat video 1080p FHD. Kamera Phantom 4 juga dibekali untuk penggunaan Mode ActiveTrack dan Tapfly.</p>
-                            <p>Phantom 4 dapat melakukan olah data yang didapatkan dari IMU dan melakukan navigasi dengan sendirinya dengan data yang cukup akurat.</p>
+                            <h2>Inspire 2</h2>
+                            <p>The Inspire 1 was a revelation. The first filmmaking drone in the world to integrate an HD video transmission system, 360° rotating gimbal and a 4K camera,
+                            as well as the simplicity of app control. The launches of the Zenmuse X5 and X5R cameras further cemented the Inspire as a critical tool for filmmakers around the globe.
+
+                            The Inspire 2 takes everything that was good about the Inspire 1 and improves it. The image processing system CineCore2.0 has been upgraded to CineCore2.1,
+                            recording video at up to 6K in CinemaDNG/RAW and 5.2K in Apple ProRes when used with Zenmuse X7 camera. It goes from 0 to 50 mph (80 kph) in just 5 seconds and
+                            hits a maximum speed of 58 mph (94 kph) and has a max descent speed of 9m/s for unheard of speed and agility in an aircraft this size. A dual battery system
+                            prolongs the flight time to a maximum of 27 minutes (with an X4S), while self-heating technology allows it to fly even in low temperatures.
+                            FlightAutonomy has been revised and developed specifically for the Inspire 2, providing two directions of obstacle avoidance and sensor redundancy.
+                            Increased intelligence adds multiple intelligent flight modes, including Spotlight Pro, giving even single pilots the ability to create complex, dramatic shots.
+                            An upgraded video transmission system is now capable of dual signal frequency and dual channel, streaming video from an onboard FPV
+                            camera and the main camera simultaneously, for better pilot and camera operator collaboration.</p>
+                            <h2>PROFESSIONAL IMAGE QUALITY</h2>
+                            <p>Integrated into the Inspire 2 is the brand new CineCore 2.1 image processing system, which is capable of recording video in 6K @4.44Gbps CinemaDNG*1, 5.2K @2.08Gbps Apple ProRes*2, and H.265/H.264 @100Mbps. CineCore 2.1 supports burst shots, capturing 10 JPEG + DNG bursts and continuous DNG bursts*3 at 20fps (24MP per shot) when the Zenmuse X7 is mounted. (Currently compatible with the X7, X5S and X4S*4. Please refer to Specs for the supported video formats of each camera)</p>
+                            <h2>Remote Controller GPS Module</h2>
+                            <p>A GPS Module for the Remote Controller improves the accuracy of the remote controller’s positioning. Used with the Inspire 2’s Dynamic Home point function which constantly updates the latest location of the remote controller as its Home point, it allows accurate Return to Home when moving around an environment.</p>
                         </div>
                         <div>
                             <h4><span class="glyphicon glyphicon-map-marker"></span> Location</h4>
