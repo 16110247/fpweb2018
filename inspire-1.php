@@ -33,25 +33,25 @@
                                 <div class="carousel-inner">
                                   <!-- Item 1 -->
                                   <div class="item active">
-                                    <img src="images/drone/4.jpg" class="properties" alt="properties" />
+                                    <img src="images/drone/inspire-1.jpg" class="properties" alt="properties" />
                                   </div>
                                   <!-- #Item 1 -->
 
                                   <!-- Item 2 -->
                                   <div class="item">
-                                    <img src="images/drone/2.jpg" class="properties" alt="properties" />
+                                    <img src="images/drone/inspire-1.jpg" class="properties" alt="properties" />
                                   </div>
                                   <!-- #Item 2 -->
 
                                   <!-- Item 3 -->
                                   <div class="item">
-                                    <img src="images/drone/1.jpg" class="properties" alt="properties" />
+                                    <img src="images/drone/inspire-1.jpg" class="properties" alt="properties" />
                                   </div>
                                   <!-- #Item 3 -->
 
                                   <!-- Item 4 -->
                                   <div class="item ">
-                                    <img src="images/drone/3.jpg" class="properties" alt="properties" />
+                                    <img src="images/drone/inspire-1.jpg" class="properties" alt="properties" />
                                   </div>
                                   <!-- # Item 4 -->
                                 </div>
@@ -64,10 +64,27 @@
 
                         <div class="spacer">
                             <h4><span class="glyphicon glyphicon-th-list"></span> Produk Detail</h4>
-                            <p>Phantom 4 dibekali dengan Obstacle Sensing System yang nantinya akan digunakan untuk melakukan scanni atau screening objek yang ada didepannya. Gunanya untuk menghindar secara berputar, melewati atau hovering.</p>
-                            <p>DJI Phantom 4 dibekali dengan 4 sensor yang akan membuat maksimal hovering akurasi dan ketangguhan yang akan membuat nyaman pada saat mengudara. Sonar sistem yang ditambahakn juga membuat DJI Phantom 4 lebih stabil. Pada situasi yang ideal dengan gabungan dua teknologi tersebut akan mendapatkan hasil Vision Positioning System vertical hover akurasi +/- 0.1 m dan horizontal hover akurasi menjadi +/- 0.3 m.</p>
-                            <p>Kamera yang ditanamkan pada DJI Phantom 4 telah berkembang dari segi kualitas hasil gambar. Chromatic Aberration telah berkurang 56% dan distorsi pada lensa juga turun drastis hingga 36% dibandingkan dengan Phantom 4 Professional. Firmware pada kamera telah dapat menangkap gambar hingga 120fps pada saat video 1080p FHD. Kamera Phantom 4 juga dibekali untuk penggunaan Mode ActiveTrack dan Tapfly.</p>
-                            <p>Phantom 4 dapat melakukan olah data yang didapatkan dari IMU dan melakukan navigasi dengan sendirinya dengan data yang cukup akurat.</p>
+                            <h2>Aircraft</h2>
+                            <p>Imagine holding the future in your hands. Designed to be powerful while lightweight, flexible while providing the stability you need, the Inspire 1 is DJI’s most advanced complete package. All of the latest aerial technology is packed into one simple, ready-to-fly system, putting you in the sky within minutes.</p>
+                            <p>Carbon fiber arms give you the strength to maneuver in the air and they transform, moving out of the camera’s way at the flick of a switch. With a full 360⁰ unobstructed view, you now have the freedom to capture shots independent of the direction you are flying.</p>
+                            <p>The all new 13 inch quick release rotors are built with the unique DJI "Z-Blade" design. They have been reinforced with a new carbon fiber compound material to ensure excellent performance with increased stability.</p>
+                            <p>Brushless motors pioneered by DJI are now the standard in the multirotor industry. But the Inspire 1 takes the next step in brushless development by integrating curved magnets that fit flush around the edge of each motor. Although much more difficult to produce, these magnets eliminate airflow gaps within the motor, greatly increasing efficiency.</p>
+                            <p>Several strands of copper wire have been replaced by a single, dense strand. Reducing the wasted space between wires results in more copper within each motor, providing more power and less resistance. A centrifugal pump increases airflow inside the neat, tight copper windings dissipating heat much faster while greatly increasing the life of the motors.</p>
+                            <p>The revolutionary Electronic Speed Controllers (ESC) with sinusoidal drive replaces the square wave drive of traditional ESCs redefining the whole drive system. The patented algorithm in the ESCs have been tuned and customized specifically for the Inspire 1 offering features such as closed loop torque control and distinct functional redundancy with the highest efficiency and the most reliability.</p>
+                            <h2>Camera</h2>
+                            <p>Zenmuse X3</p>
+                            <p>1/2.3” sensor</p>
+                            <p>Record at 4096 × 2160 (25fps) or</p>
+                            <p>1920 × 1080 (60fps)</p>
+                            <p>12MP photographs, 3 axis gimbal, 360⁰ rotation</p>
+                            <p>9 element rectilinear wide angle lens</p>
+                            <h2>Remote</h2>
+                            <p>The Inspire 1’s remote controller combines DJI’s most sophisticated control technology with added dual operator support. Never before has such an advanced controller been created specifically for flight and camera control.</p>
+                            <p>For the first time ever, the DJI Lightbridge HD video downlink has been integrated into a remote. This gives you a live view of what your camera sees when connected to a screen or mobile device and increases your maximum control range to 3.1mi(5Km).</p>
+                            <p>Easily control both flight and camera functions right on the remote. Dedicated buttons for photo and video capture, dials for gimbal tilt and camera settings, and one-press Return to Home functionality are all built right in.</p>
+                            <p>When flying with a friend, the Master controller pilots the aircraft while the Slave controller moves the gimbal and camera’s direction. Both remotes receive live data and video straight from the Inspire 1, but only the Master controller sends commands to the aircraft. The Slave controller must be linked to the Master via secure password to control the gimbal.</p>
+                            <p>All of DJI’s flight system knowledge has been put into the remote’s software, giving you smooth, stable flight. Finely tuned control algorithms make you feel like you’re riding in the cockpit, with a level of control no other multirotor on the market can match.</p>
+                            <p>The built-in 6000 mAh LiPo 2S rechargeable battery means you can make multiple flights without thinking about the remote’s power. The remaining battery life is shown live right on the remote, and built-in alerts warn you when power is running low.</p>
                         </div>
                         <div>
                             <h4><span class="glyphicon glyphicon-map-marker"></span> Location</h4>

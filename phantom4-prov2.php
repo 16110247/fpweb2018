@@ -17,8 +17,8 @@
   <h2>Phantom 4 Pro v2.0</h2>
   <div class="info">Posted on: Jan 20, 2013</div>
   <img src="images/blog/phantom 4 pro v2.0.png" class="thumbnail img-responsive"  alt="blog title">
- <p>Kamera yang ditingkatkan mutunya dilengkapi dengan sensor 20-megapiksel 1 inci yang mampu merekam video 4K / 60 fps dan Mode Burst diam pada 14 fps. Sistem FlightAutonomy mencakup lima sensor penglihatan untuk penghindaran hambatan 2 arah dan penghindaran hambatan pandangan ke depan. Adopsi paduan titanium dan magnesium alloy meningkat
-kekakuan airframe dan mengurangi berat, membuat Phantom 4 Advanced lebih ringan dari Phantom 4.</p>
+  <h1>New OcuSync Video Transmission</h1>
+ <p>The Phantom 4 Pro V2.0’s remote controller uses OcuSync video transmission,* which employs time-division multiplexing technology to send control signal and receive video signal simultaneously. When the controller is powered on, the OcuSync system scans for the frequency band with lowest interference and switches accordingly to maintain clear transmission. Also, thanks to OcuSync, the Phantom 4 Pro V2.0 wirelessly connects to DJI Goggles RE. Free from cable constraints, you can enjoy exciting FPV flight at speeds of up to 72kph (45mph) in S-mode.</p>
  <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
  <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
   <!-- blog detail -->
@@ -31,11 +31,6 @@ kekakuan airframe dan mengurangi berat, membuat Phantom 4 Advanced lebih ringan 
 
   <!-- tabs -->
   <div class="tabbable">
-              <ul class="nav nav-tabs">
-                <li class=""><a href="#tab1" data-toggle="tab">Recent Post</a></li>
-                <li class=""><a href="#tab2" data-toggle="tab">Most Popular</a></li>
-                <li class="active"><a href="#tab3" data-toggle="tab">Most Commented</a></li>
-              </ul>
               <div class="tab-content">
                 <div class="tab-pane" id="tab1">
                   <ul class="list-unstyled">
@@ -67,19 +62,6 @@ kekakuan airframe dan mengurangi berat, membuat Phantom 4 Advanced lebih ringan 
 
                   <li>
                   <h5><a href="blogdetail.php">Market update on new apartments</a></h5>
-                            <div class="info">Posted on: Jan 20, 2013</div>  
-                            </li>
-                            </ul>
-                </div>
-                <div class="tab-pane active" id="tab3">
-                <ul class="list-unstyled">      
-                            <li>
-                  <h5><a href="blogdetail.php">Creative business to takeover the market</a></h5>
-                            <div class="info">Posted on: Jan 20, 2013</div>  
-                            </li>
-                            
-                            <li>
-                  <h5><a href="blogdetail.php">Creative business to takeover the market</a></h5>
                             <div class="info">Posted on: Jan 20, 2013</div>  
                             </li>
                             </ul>
