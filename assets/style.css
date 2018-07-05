@@ -1,10 +1,4 @@
-.@font-face {
-font-family: 'din';
-src: url('fonts/din.eot');
-src: url('fonts/din.eot?#iefix') format('embedded-opentype'), url('fonts/din.woff') format('woff'), url('fonts/din.ttf') format('truetype'), url('fonts/din.svg#din') format('svg');
-font-weight: normal;
-font-style: normal;
-}
+
 
 body {	color:#555;	font:normal 13px/22px Arial;	background:url(../images/bgmain.png) #eee;}
 
@@ -91,8 +85,9 @@ a.login-btn i, a.signup-btn i { margin-right: 10px;}
 .listing-detail span{color: #fff; width: 25px; height: 25px; background-color: #555;display: inline-block;border-radius:25px; text-align: center;line-height: 26px; font-size: 14px;cursor: crosshair;}
 .listing-detail span:hover{background: #72b70f;}
 
-
-.status.sold{background:rgba(104,167,13,0.8);}
+/* status product */
+.status.promo{background:rgba(102, 51, 153,0.8);}
+.status.sale{background:rgba(207, 0, 15,0.8);}
 .status.new{background:rgba(190,7,46,0.8);}
 
 .recommended{position: relative;}
@@ -117,6 +112,8 @@ a.login-btn i, a.signup-btn i { margin-right: 10px;}
 
 .search-form {margin-bottom: 50px;}
 .search-form h4{margin: 17px 0;}
+
+.image-holder img{height: 130px;}
 
 
 .hot-products {margin-bottom: 50px;}
