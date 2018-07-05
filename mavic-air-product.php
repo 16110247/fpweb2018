@@ -16,7 +16,7 @@
             <?php include'side-bar.php';?>
 
             <div class="col-lg-9 col-sm-8 ">
-                <h2>mavic-air</h2>
+                <h2>Mavic Air</h2>
                 <div class="row">
                     <div class="col-lg-8">
                         <div class="property-images">
@@ -33,25 +33,25 @@
                                 <div class="carousel-inner">
                                   <!-- Item 1 -->
                                   <div class="item active">
-                                    <img src="images/drone/4.jpg" class="properties" alt="properties" />
+                                    <img src="images/drone/mavic-air.png" class="properties" alt="properties" />
                                   </div>
                                   <!-- #Item 1 -->
 
                                   <!-- Item 2 -->
                                   <div class="item">
-                                    <img src="images/drone/2.jpg" class="properties" alt="properties" />
+                                    <img src="images/drone/mavic-air.png.jpg" class="properties" alt="properties" />
                                   </div>
                                   <!-- #Item 2 -->
 
                                   <!-- Item 3 -->
                                   <div class="item">
-                                    <img src="images/drone/1.jpg" class="properties" alt="properties" />
+                                    <img src="images/drone/mavic-air.png.jpg" class="properties" alt="properties" />
                                   </div>
                                   <!-- #Item 3 -->
 
                                   <!-- Item 4 -->
                                   <div class="item ">
-                                    <img src="images/drone/3.jpg" class="properties" alt="properties" />
+                                    <img src="images/drone/mavic-air.png.jpg" class="properties" alt="properties" />
                                   </div>
                                   <!-- # Item 4 -->
                                 </div>
@@ -64,10 +64,29 @@
 
                         <div class="spacer">
                             <h4><span class="glyphicon glyphicon-th-list"></span> Produk Detail</h4>
-                            <p>Phantom 4 dibekali dengan Obstacle Sensing System yang nantinya akan digunakan untuk melakukan scanni atau screening objek yang ada didepannya. Gunanya untuk menghindar secara berputar, melewati atau hovering.</p>
-                            <p>DJI Phantom 4 dibekali dengan 4 sensor yang akan membuat maksimal hovering akurasi dan ketangguhan yang akan membuat nyaman pada saat mengudara. Sonar sistem yang ditambahakn juga membuat DJI Phantom 4 lebih stabil. Pada situasi yang ideal dengan gabungan dua teknologi tersebut akan mendapatkan hasil Vision Positioning System vertical hover akurasi +/- 0.1 m dan horizontal hover akurasi menjadi +/- 0.3 m.</p>
-                            <p>Kamera yang ditanamkan pada DJI Phantom 4 telah berkembang dari segi kualitas hasil gambar. Chromatic Aberration telah berkurang 56% dan distorsi pada lensa juga turun drastis hingga 36% dibandingkan dengan Phantom 4 Professional. Firmware pada kamera telah dapat menangkap gambar hingga 120fps pada saat video 1080p FHD. Kamera Phantom 4 juga dibekali untuk penggunaan Mode ActiveTrack dan Tapfly.</p>
-                            <p>Phantom 4 dapat melakukan olah data yang didapatkan dari IMU dan melakukan navigasi dengan sendirinya dengan data yang cukup akurat.</p>
+                            <h2>DJI MAVIC AIR</h2>
+                            <p>So DJI contacted me asking if I would like to borrow a new drone, of course I was interested so I said Yes. All I had to do in return was an un-boxing video, some pictures and also a couple of further videos down the line.. No problem I said.
+
+So the tiny ‘Mavic Air’ drone from DJI is their latest offering into the consumer drone space. It’s size and price range tells me it could be used by a large variety of users such as: first time drone owners, novice aerial photographers, aspiring film makers, holiday goers, backpackers and active types with the likes of hikers & climbers.
+
+As someone that is used to flying inspires and Phantoms, the Mavic Air does feel a lot different so I’m finding myself having to learn the ropes again and make adjustments to my flight rhythm.  I’ve never flown anything smaller than the Phantom before so this realm is all new to me but i’ll learn & adjust.</p>
+                            <h2>Camera</h2>
+                            <p>The Mavic Air camera technology is superb.  The Mavic Air 3 axis gimbal has an angular vibration range which is now reduced to 0.005 degrees.  Most other drone manufacturers can’t even measure the angular vibration range of their camera gimbals. Now, the Mavic Air gimbal is set in a triangular formation with new innovative dampeners for almost perfect gimbal stability.</p>
+                            <p>The Mavic Air camera shoots video in 4k at 30 frames per second. It also records at 100 Mbps to capture every second in UHD quality.  The camera also supports recording 1080p at 120 frames per second slow motion video.</p>
+                            <h2>Remote</h2>
+                            <p>The Mavic Air can sense objects in 3 directions.  It has Forward, Backward and Downward Vision system which is constantly scanning for obstacles in front and behind the Mavic Air, allowing it to avoid collisions by flying either flying around the obstacle or hovering in front.
+
+FlightAutonomy 2.0 is the name for the DJI integrated system of sensors, algorithms and advanced VIO technology for the Mavic Air to sense it’s surroundings and take action based on what is senses.
+
+In general terms, VIO or Visual Inertial Odometry technology fuses information from a camera and inertial sensors, specifically gyroscopes and accelerometers, to accurately estimate device position without relying on GNSS systems.
+
+Now, the DJI Mavic Air uses advanced VIO technology in its powerful sensor system FlightAutonomy 2.0.  This consists of a primary gimbal camera, forward, backward, downward dual vision sensors, downward infrared sensing system, IMU redundancies and a group of computing cores.
+
+Together, they collect information from the surrounding environment and transmit it to the high performance processor for more precise hovering and better flight performance.
+
+The Downward Vision System helps the Mavic Air to maintain its current location. It can hover in place very precisely.  The Mavic Air Downward Vision System also allows the quadcopter to fly indoors or other environments where their is no GPS signal.
+
+The main hardware components of the Downward Vision System are 2 cameras and also a 3D Infrared module</p>
                         </div>
                         <div>
                             <h4><span class="glyphicon glyphicon-map-marker"></span> Location</h4>
