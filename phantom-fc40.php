@@ -64,10 +64,16 @@
 
                         <div class="spacer">
                             <h4><span class="glyphicon glyphicon-th-list"></span> Produk Detail</h4>
-                            <p>Phantom 4 dibekali dengan Obstacle Sensing System yang nantinya akan digunakan untuk melakukan scanni atau screening objek yang ada didepannya. Gunanya untuk menghindar secara berputar, melewati atau hovering.</p>
-                            <p>DJI Phantom 4 dibekali dengan 4 sensor yang akan membuat maksimal hovering akurasi dan ketangguhan yang akan membuat nyaman pada saat mengudara. Sonar sistem yang ditambahakn juga membuat DJI Phantom 4 lebih stabil. Pada situasi yang ideal dengan gabungan dua teknologi tersebut akan mendapatkan hasil Vision Positioning System vertical hover akurasi +/- 0.1 m dan horizontal hover akurasi menjadi +/- 0.3 m.</p>
-                            <p>Kamera yang ditanamkan pada DJI Phantom 4 telah berkembang dari segi kualitas hasil gambar. Chromatic Aberration telah berkurang 56% dan distorsi pada lensa juga turun drastis hingga 36% dibandingkan dengan Phantom 4 Professional. Firmware pada kamera telah dapat menangkap gambar hingga 120fps pada saat video 1080p FHD. Kamera Phantom 4 juga dibekali untuk penggunaan Mode ActiveTrack dan Tapfly.</p>
-                            <p>Phantom 4 dapat melakukan olah data yang didapatkan dari IMU dan melakukan navigasi dengan sendirinya dengan data yang cukup akurat.</p>
+                            <h2>DESIGN AND DURABILITY</h2>
+                            <p>About the body; this one is just like any other Phantom drone: elegant, stylish and very durable. You also get in the package some red stickers so you can put them on the front. This way you can easily figure it out if you are going backward or forward. Or you could just put them where you want and make your own personalized drone.</p>
+                            <h2>CAMERA</h2>
+                            <p>The camera and all the features that it brings to the table are the main attraction with this drone. The best part is that you can either use the integrated HD camera, which is already installed on the FC40FC40, or you can attach another one, is up to you.</p>
+                            <h2>BATTERY AND FLIGHT TIME</h2>
+                            <p>The camera is pretty light so it won’t take much from the DJI Phantom FC40’s battery life. Another nice thing is that the camera has its own battery so it won’t consume at all the big battery while recording or taking pictures.</p>
+                            <p>The battery that comes in the package with the drone is a 2200 mAh Li-Po battery that will give 10-12 minutes of flight. Of course you can buy another one or just buy the upgraded version. This one is a 5200 mAh Li-Po battery with which you can get up to 25 minutes of flight. If you like this camera then you can remain with this battery but if you want to change it with a GoPro then you will really need a better one.</p>
+                            <h2>CONTROLLER</h2>
+                            <p>The transmitter is very easy to use even if you are a beginner. Even more, if you already have another Phantom, then you know exactly how to use it. Transmitters are very similar with the Phantom products.</p>
+                            <p>DJI Phantom FC40 has an ON and OFF button and a LED light that show you when it’s turned on. There are throttle sticks, with which you control the drone’s moves, and 2 switches.</p>
                         </div>
                         <div>
                             <h4><span class="glyphicon glyphicon-map-marker"></span> Location</h4>

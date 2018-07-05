@@ -64,10 +64,12 @@
 
                         <div class="spacer">
                             <h4><span class="glyphicon glyphicon-th-list"></span> Produk Detail</h4>
-                            <p>Phantom 4 dibekali dengan Obstacle Sensing System yang nantinya akan digunakan untuk melakukan scanni atau screening objek yang ada didepannya. Gunanya untuk menghindar secara berputar, melewati atau hovering.</p>
-                            <p>DJI Phantom 4 dibekali dengan 4 sensor yang akan membuat maksimal hovering akurasi dan ketangguhan yang akan membuat nyaman pada saat mengudara. Sonar sistem yang ditambahakn juga membuat DJI Phantom 4 lebih stabil. Pada situasi yang ideal dengan gabungan dua teknologi tersebut akan mendapatkan hasil Vision Positioning System vertical hover akurasi +/- 0.1 m dan horizontal hover akurasi menjadi +/- 0.3 m.</p>
-                            <p>Kamera yang ditanamkan pada DJI Phantom 4 telah berkembang dari segi kualitas hasil gambar. Chromatic Aberration telah berkurang 56% dan distorsi pada lensa juga turun drastis hingga 36% dibandingkan dengan Phantom 4 Professional. Firmware pada kamera telah dapat menangkap gambar hingga 120fps pada saat video 1080p FHD. Kamera Phantom 4 juga dibekali untuk penggunaan Mode ActiveTrack dan Tapfly.</p>
-                            <p>Phantom 4 dapat melakukan olah data yang didapatkan dari IMU dan melakukan navigasi dengan sendirinya dengan data yang cukup akurat.</p>
+                            <h2>Test Flights With the Remote Control Unit</h2>
+                            <p>The Phantom 1 comes with a remote control unit as well as two flight control modes, including position hold. If you lose your control connection with the quadcopter while it’s doing its thing, the flying robot is advertised as automatically returning to your designated launch pad. However, some users dispute this claim.</p>
+                            <h2>Assembly and Durability</h2>
+                            <p>Considered easy to assemble, the drone is also quite durable, and capable of surviving a crash or two.</p>
+                            <h2>A High-Tech Toy</h2>
+                            <p>A “high-tech toy for adults,” the Phantom 1 is best served with a GoPro drone camera. While the camera doesn’t come with the quadcopter, it’s recommended you purchase one unless learning how to maneuver the drone is all that interests you. If that’s the case, go with a smaller, cheaper option.</p>
                         </div>
                         <div>
                             <h4><span class="glyphicon glyphicon-map-marker"></span> Location</h4>
