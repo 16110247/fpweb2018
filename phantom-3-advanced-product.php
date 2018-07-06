@@ -33,25 +33,25 @@
                                 <div class="carousel-inner">
                                   <!-- Item 1 -->
                                   <div class="item active">
-                                    <img src="images/drone/4.jpg" class="properties" alt="properties" />
+                                    <img src="images/drone/phantom 3 advanced.jpg" class="properties" alt="properties" />
                                   </div>
                                   <!-- #Item 1 -->
 
                                   <!-- Item 2 -->
                                   <div class="item">
-                                    <img src="images/drone/2.jpg" class="properties" alt="properties" />
+                                    <img src="images/drone/phantom 3 advanced.jpg" class="properties" alt="properties" />
                                   </div>
                                   <!-- #Item 2 -->
 
                                   <!-- Item 3 -->
                                   <div class="item">
-                                    <img src="images/drone/1.jpg" class="properties" alt="properties" />
+                                    <img src="images/drone/phantom 3 advanced.jpg" class="properties" alt="properties" />
                                   </div>
                                   <!-- #Item 3 -->
 
                                   <!-- Item 4 -->
                                   <div class="item ">
-                                    <img src="images/drone/3.jpg" class="properties" alt="properties" />
+                                    <img src="images/drone/phantom 3 advanced.jpg" class="properties" alt="properties" />
                                   </div>
                                   <!-- # Item 4 -->
                                 </div>
