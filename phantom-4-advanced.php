@@ -16,7 +16,7 @@
             <?php include'side-bar.php';?>
 
             <div class="col-lg-9 col-sm-8 ">
-                <h2>phantom-4-advanced</h2>
+                <h2>Phantom 4 Advanced</h2>
                 <div class="row">
                     <div class="col-lg-8">
                         <div class="property-images">
@@ -33,25 +33,25 @@
                                 <div class="carousel-inner">
                                   <!-- Item 1 -->
                                   <div class="item active">
-                                    <img src="images/drone/4.jpg" class="properties" alt="properties" />
+                                    <img src="images/drone/phantom 4 advanced.png" class="properties" alt="properties" />
                                   </div>
                                   <!-- #Item 1 -->
 
                                   <!-- Item 2 -->
                                   <div class="item">
-                                    <img src="images/drone/2.jpg" class="properties" alt="properties" />
+                                    <img src="images/drone/phantom 4 advanced.png" class="properties" alt="properties" />
                                   </div>
                                   <!-- #Item 2 -->
 
                                   <!-- Item 3 -->
                                   <div class="item">
-                                    <img src="images/drone/1.jpg" class="properties" alt="properties" />
+                                    <img src="images/drone/phantom 4 advanced.png" class="properties" alt="properties" />
                                   </div>
                                   <!-- #Item 3 -->
 
                                   <!-- Item 4 -->
                                   <div class="item ">
-                                    <img src="images/drone/3.jpg" class="properties" alt="properties" />
+                                    <img src="images/drone/phantom 4 advanced.png" class="properties" alt="properties" />
                                   </div>
                                   <!-- # Item 4 -->
                                 </div>
@@ -64,10 +64,20 @@
 
                         <div class="spacer">
                             <h4><span class="glyphicon glyphicon-th-list"></span> Produk Detail</h4>
-                            <p>Phantom 4 dibekali dengan Obstacle Sensing System yang nantinya akan digunakan untuk melakukan scanni atau screening objek yang ada didepannya. Gunanya untuk menghindar secara berputar, melewati atau hovering.</p>
-                            <p>DJI Phantom 4 dibekali dengan 4 sensor yang akan membuat maksimal hovering akurasi dan ketangguhan yang akan membuat nyaman pada saat mengudara. Sonar sistem yang ditambahakn juga membuat DJI Phantom 4 lebih stabil. Pada situasi yang ideal dengan gabungan dua teknologi tersebut akan mendapatkan hasil Vision Positioning System vertical hover akurasi +/- 0.1 m dan horizontal hover akurasi menjadi +/- 0.3 m.</p>
-                            <p>Kamera yang ditanamkan pada DJI Phantom 4 telah berkembang dari segi kualitas hasil gambar. Chromatic Aberration telah berkurang 56% dan distorsi pada lensa juga turun drastis hingga 36% dibandingkan dengan Phantom 4 Professional. Firmware pada kamera telah dapat menangkap gambar hingga 120fps pada saat video 1080p FHD. Kamera Phantom 4 juga dibekali untuk penggunaan Mode ActiveTrack dan Tapfly.</p>
-                            <p>Phantom 4 dapat melakukan olah data yang didapatkan dari IMU dan melakukan navigasi dengan sendirinya dengan data yang cukup akurat.</p>
+                            <p>An uprated camera is equipped with a 1-inch 20-megapixel sensor capable of shooting 4K/60 fps video and Burst Mode stills at 14 fps. The FlightAutonomy system includes five vision sensors for 2-directional obstacle sensing and forward-vision obstacle avoidance. The adoption of titanium alloy and magnesium alloy increases
+                            the rigidity of the airframe and reduces weight, making the Phantom 4 Advanced even lighter than the Phantom 4.</p>
+                            <h2>CAMERA WITH 1-INCH 20MP SENSOR</h2>
+                            <p>The onboard camera is equipped with a 1-inch 20-megapixel CMOS sensor. A mechanical shutter is used to eliminate rolling shutter distortion, which can occur when taking images of fast-moving subjects or when flying at high speeds. In effect, it is as powerful as many professional cameras. More powerful video processing supports H.264 4K videos at 60 fps or H.265 4K at 30 fps, both with a 100Mbps bitrate. Excellent optical performance, sensors, and processors ensure everything is captured with high dynamic range and more image detail needed for advanced post-production.
+                            </p>
+                            <h2>5 VISION SENSORS</h2>
+                            <p>Equipped with DJI’s FlightAutonomy system made up of five vision sensors, dual-band satellite positioning (GPS and GLONASS), ultrasonic rangefinders,
+                            and redundant sensors, the Phantom 4 Advanced can hover precisely in places without GPS and navigate complex environments. The dual forward
+                            vision sensors can see as far as 30 m out in front, enable auto brake, and hover or detour in front of obstacles within a 15-meter range.</p>
+                            <h2>REMOTE CONTROLLER WITH BUILT-IN SCREEN</h2>
+                            <p>The Phantom 4 Advanced+ comes equipped with the upgraded Lightbridge HD video transmission system, which has a maximum
+                            video transmission range of 4.3 mi (7 km). * A 5.5-inch 1080p screen integrated with the Phantom 4 Advanced+ offers 1000 cd/m2 of brightness,
+                            more than twice as bright as conventional smart devices, enabling clear visibility in direct sunlight. With a five-hour battery life, the Phantom 4 Advanced+
+                            is a powerful aerial imaging solution. The built-in DJI GO 4 app allows you to live stream, edit, and share your aerial videos and photos instantly.</p>
                         </div>
                         <div>
                             <h4><span class="glyphicon glyphicon-map-marker"></span> Location</h4>

@@ -16,7 +16,7 @@
             <?php include'side-bar.php';?>
 
             <div class="col-lg-9 col-sm-8 ">
-                <h2>phantom-4-pro-v2.0</h2>
+                <h2>Phantom 4 Pro V2.0</h2>
                 <div class="row">
                     <div class="col-lg-8">
                         <div class="property-images">
@@ -33,25 +33,25 @@
                                 <div class="carousel-inner">
                                   <!-- Item 1 -->
                                   <div class="item active">
-                                    <img src="images/drone/4.jpg" class="properties" alt="properties" />
+                                    <img src="images/drone/phantom 4 pro v2.0.png" class="properties" alt="properties" />
                                   </div>
                                   <!-- #Item 1 -->
 
                                   <!-- Item 2 -->
                                   <div class="item">
-                                    <img src="images/drone/2.jpg" class="properties" alt="properties" />
+                                    <img src="images/drone/phantom 4 pro v2.0.png" class="properties" alt="properties" />
                                   </div>
                                   <!-- #Item 2 -->
 
                                   <!-- Item 3 -->
                                   <div class="item">
-                                    <img src="images/drone/1.jpg" class="properties" alt="properties" />
+                                    <img src="images/drone/phantom 4 pro v2.0.png" class="properties" alt="properties" />
                                   </div>
                                   <!-- #Item 3 -->
 
                                   <!-- Item 4 -->
                                   <div class="item ">
-                                    <img src="images/drone/3.jpg" class="properties" alt="properties" />
+                                    <img src="images/drone/phantom 4 pro v2.0.png" class="properties" alt="properties" />
                                   </div>
                                   <!-- # Item 4 -->
                                 </div>
@@ -64,10 +64,18 @@
 
                         <div class="spacer">
                             <h4><span class="glyphicon glyphicon-th-list"></span> Produk Detail</h4>
-                            <p>Phantom 4 dibekali dengan Obstacle Sensing System yang nantinya akan digunakan untuk melakukan scanni atau screening objek yang ada didepannya. Gunanya untuk menghindar secara berputar, melewati atau hovering.</p>
-                            <p>DJI Phantom 4 dibekali dengan 4 sensor yang akan membuat maksimal hovering akurasi dan ketangguhan yang akan membuat nyaman pada saat mengudara. Sonar sistem yang ditambahakn juga membuat DJI Phantom 4 lebih stabil. Pada situasi yang ideal dengan gabungan dua teknologi tersebut akan mendapatkan hasil Vision Positioning System vertical hover akurasi +/- 0.1 m dan horizontal hover akurasi menjadi +/- 0.3 m.</p>
-                            <p>Kamera yang ditanamkan pada DJI Phantom 4 telah berkembang dari segi kualitas hasil gambar. Chromatic Aberration telah berkurang 56% dan distorsi pada lensa juga turun drastis hingga 36% dibandingkan dengan Phantom 4 Professional. Firmware pada kamera telah dapat menangkap gambar hingga 120fps pada saat video 1080p FHD. Kamera Phantom 4 juga dibekali untuk penggunaan Mode ActiveTrack dan Tapfly.</p>
-                            <p>Phantom 4 dapat melakukan olah data yang didapatkan dari IMU dan melakukan navigasi dengan sendirinya dengan data yang cukup akurat.</p>
+                            <p>The new Phantom 4 Pro V2.0 features an OcuSync HD transmission system, which supports automatic dual-frequency band switching and connects to DJI Goggles wirelessly. Like the Phantom 4 Pro and Advanced, the Phantom 4 Pro V2.0 is equipped with a 1-inch 20-megapixel sensor capable of shooting 4K/60fps video and Burst Mode stills at 14 fps. Plus, its FlightAutonomy system includes dual rear vision sensors and infrared sensing systems for a total of 5 directions of obstacle sensing and 4 directions of obstacle avoidance.</p>
+                            <h2>Quieter, More enjoyable flights</h2>
+                            <p>New aerodynamic 9455S propellers and new FOC ESC drivers offer improved noise control and sinusoidal current for increased stability.
+                            Aircraft noise has been reduced by up to 4dB* (60%) for quieter, more enjoyable flights.
+                            </p>
+                            <h2>Transmission</h2>
+                            <p>The Phantom 4 Pro V2.0’s remote controller uses OcuSync video transmission,* which employs time-division multiplexing technology to send control signal and receive video signal simultaneously. When the controller is powered on, the OcuSync system scans for the frequency band with lowest interference and switches accordingly to maintain clear transmission. Also, thanks to OcuSync, the Phantom 4 Pro V2.0 wirelessly connects to DJI Goggles RE. Free from cable constraints, you can enjoy exciting FPV flight at speeds of up to 72kph (45mph) in S-mode.</p>
+                            <p>Dual-Frequency Transmission
+                            The Phantom 4 Pro V2.0 remote controller utilizes the OcuSync HD video transmission system that operates on both 2.4GHz and 5.8GHz frequency bands, with a max transmission range of 7 km. Assessing environmental conditions, the aircraft chooses the best band in which to operate, helping to reduce signal interference.</p>
+                            <p>OcuSync video transmission technology can sense environmental interference in real time. When the interference is strong, the system switches to the frequency point with the least amount of intrusion.</p>
+                            <p>With bi-directional perception and error-resilient technology, the Phantom 4 Pro V2.0 saves up to 30% of its bandwidth and solves common problems such as video lag and even compression artifacts within video transmission, providing crystal-clear live video at up to 1080p.</p>
+                            <p>OcuSync can connect to multiple devices at the same time. It can link two remote controllers* or a remote controller and set of DJI Goggles. OcuSync can sense aircraft altitude and the relative position of aircrafts while choosing the ideal antenna combination for Goggles, the remote controller, and aircraft for optimal signal transmission.</p>
                         </div>
                         <div>
                             <h4><span class="glyphicon glyphicon-map-marker"></span> Location</h4>

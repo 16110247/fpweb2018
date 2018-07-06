@@ -16,7 +16,7 @@
             <?php include'side-bar.php';?>
 
             <div class="col-lg-9 col-sm-8 ">
-                <h2>mavic-pro-alpine-white</h2>
+                <h2>Mavic Pro Alpine White</h2>
                 <div class="row">
                     <div class="col-lg-8">
                         <div class="property-images">
@@ -33,25 +33,25 @@
                                 <div class="carousel-inner">
                                   <!-- Item 1 -->
                                   <div class="item active">
-                                    <img src="images/drone/4.jpg" class="properties" alt="properties" />
+                                    <img src="images/drone/mavic-pro-alpine-white.jpg" class="properties" alt="properties" />
                                   </div>
                                   <!-- #Item 1 -->
 
                                   <!-- Item 2 -->
                                   <div class="item">
-                                    <img src="images/drone/2.jpg" class="properties" alt="properties" />
+                                    <img src="images/drone/mavic-pro-alpine-white.jpg" class="properties" alt="properties" />
                                   </div>
                                   <!-- #Item 2 -->
 
                                   <!-- Item 3 -->
                                   <div class="item">
-                                    <img src="images/drone/1.jpg" class="properties" alt="properties" />
+                                    <img src="images/drone/mavic-pro-alpine-white.jpg" class="properties" alt="properties" />
                                   </div>
                                   <!-- #Item 3 -->
 
                                   <!-- Item 4 -->
                                   <div class="item ">
-                                    <img src="images/drone/3.jpg" class="properties" alt="properties" />
+                                    <img src="images/drone/mavic-pro-alpine-white.jpg" class="properties" alt="properties" />
                                   </div>
                                   <!-- # Item 4 -->
                                 </div>
@@ -64,10 +64,20 @@
 
                         <div class="spacer">
                             <h4><span class="glyphicon glyphicon-th-list"></span> Produk Detail</h4>
-                            <p>Phantom 4 dibekali dengan Obstacle Sensing System yang nantinya akan digunakan untuk melakukan scanni atau screening objek yang ada didepannya. Gunanya untuk menghindar secara berputar, melewati atau hovering.</p>
-                            <p>DJI Phantom 4 dibekali dengan 4 sensor yang akan membuat maksimal hovering akurasi dan ketangguhan yang akan membuat nyaman pada saat mengudara. Sonar sistem yang ditambahakn juga membuat DJI Phantom 4 lebih stabil. Pada situasi yang ideal dengan gabungan dua teknologi tersebut akan mendapatkan hasil Vision Positioning System vertical hover akurasi +/- 0.1 m dan horizontal hover akurasi menjadi +/- 0.3 m.</p>
-                            <p>Kamera yang ditanamkan pada DJI Phantom 4 telah berkembang dari segi kualitas hasil gambar. Chromatic Aberration telah berkurang 56% dan distorsi pada lensa juga turun drastis hingga 36% dibandingkan dengan Phantom 4 Professional. Firmware pada kamera telah dapat menangkap gambar hingga 120fps pada saat video 1080p FHD. Kamera Phantom 4 juga dibekali untuk penggunaan Mode ActiveTrack dan Tapfly.</p>
-                            <p>Phantom 4 dapat melakukan olah data yang didapatkan dari IMU dan melakukan navigasi dengan sendirinya dengan data yang cukup akurat.</p>
+                            <p>Drone manufacturer DJI has launched a new drone in time for Christmas. Sort of. The Mavic Pro Alpine White Combo doesn’t do anything the standard Mavic can’t do. But it does offer slightly better value for money.
+
+                             The Alpine White is offered as a “Holiday Combo” deal, so you’ll get a few other bits and pieces with it, namely a remote controller, two extra Intelligent Flight Batteries, two additional pairs of propellers, and an aircraft sleeve.
+                            </p>
+                            <h2>COMPARISON</h2>
+                            <p>All three drones have the same Forward Vision System, Downward Vision System providing world-class obstacle detection. However, there are two main differences between the Mavic Pro Platinum and the other two Mavics.
+                            </p>
+                            <p>Firstly, the Mavic Pro Platinum has a flight time of 30 minutes to the Mavic Pro’s 27 minutes thanks to its improved propulsion system. Secondly, it also has 60% noise power reduction for a quieter, more enjoyable flight experience.</p>
+                            <h2>LIMITED EDITION</h2>
+                            <p>It’s been clear for a long time that DJI’s biggest competitor is itself. We’ve written before about the crazy speed at which the company has pushed new drones to market in the past.
+
+                             There’s only so much relentless iteration that the consumer market can take, particularly with the prices as they are and the fact that many hobbyists only fly occasionally. After successfully laying waste to pretty much every other major manufacturer, it looks like DJI has adopted a different strategy this year. 
+
+                            So what do you think?</p>
                         </div>
                         <div>
                             <h4><span class="glyphicon glyphicon-map-marker"></span> Location</h4>
