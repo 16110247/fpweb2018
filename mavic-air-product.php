@@ -67,30 +67,28 @@
                             <h2>DJI MAVIC AIR</h2>
                             <p>So DJI contacted me asking if I would like to borrow a new drone, of course I was interested so I said Yes. All I had to do in return was an un-boxing video, some pictures and also a couple of further videos down the line.. No problem I said.
 
-So the tiny ‘Mavic Air’ drone from DJI is their latest offering into the consumer drone space. It’s size and price range tells me it could be used by a large variety of users such as: first time drone owners, novice aerial photographers, aspiring film makers, holiday goers, backpackers and active types with the likes of hikers & climbers.
+                            So the tiny ‘Mavic Air’ drone from DJI is their latest offering into the consumer drone space. It’s size and price range tells me it could be used by a large variety of users such as: first time drone owners, novice aerial photographers, aspiring film makers, holiday goers, backpackers and active types with the likes of hikers & climbers.
 
-As someone that is used to flying inspires and Phantoms, the Mavic Air does feel a lot different so I’m finding myself having to learn the ropes again and make adjustments to my flight rhythm.  I’ve never flown anything smaller than the Phantom before so this realm is all new to me but i’ll learn & adjust.</p>
+                            As someone that is used to flying inspires and Phantoms, the Mavic Air does feel a lot different so I’m finding myself having to learn the ropes again and make adjustments to my flight rhythm.  I’ve never flown anything smaller than the Phantom before so this realm is all new to me but i’ll learn & adjust.</p>
                             <h2>Camera</h2>
                             <p>The Mavic Air camera technology is superb.  The Mavic Air 3 axis gimbal has an angular vibration range which is now reduced to 0.005 degrees.  Most other drone manufacturers can’t even measure the angular vibration range of their camera gimbals. Now, the Mavic Air gimbal is set in a triangular formation with new innovative dampeners for almost perfect gimbal stability.</p>
                             <p>The Mavic Air camera shoots video in 4k at 30 frames per second. It also records at 100 Mbps to capture every second in UHD quality.  The camera also supports recording 1080p at 120 frames per second slow motion video.</p>
                             <h2>Remote</h2>
                             <p>The Mavic Air can sense objects in 3 directions.  It has Forward, Backward and Downward Vision system which is constantly scanning for obstacles in front and behind the Mavic Air, allowing it to avoid collisions by flying either flying around the obstacle or hovering in front.
 
-FlightAutonomy 2.0 is the name for the DJI integrated system of sensors, algorithms and advanced VIO technology for the Mavic Air to sense it’s surroundings and take action based on what is senses.
+                            FlightAutonomy 2.0 is the name for the DJI integrated system of sensors, algorithms and advanced VIO technology for the Mavic Air to sense it’s surroundings and take action based on what is senses.
 
-In general terms, VIO or Visual Inertial Odometry technology fuses information from a camera and inertial sensors, specifically gyroscopes and accelerometers, to accurately estimate device position without relying on GNSS systems.
+                            In general terms, VIO or Visual Inertial Odometry technology fuses information from a camera and inertial sensors, specifically gyroscopes and accelerometers, to accurately estimate device position without relying on GNSS systems.
 
-Now, the DJI Mavic Air uses advanced VIO technology in its powerful sensor system FlightAutonomy 2.0.  This consists of a primary gimbal camera, forward, backward, downward dual vision sensors, downward infrared sensing system, IMU redundancies and a group of computing cores.
+                            Now, the DJI Mavic Air uses advanced VIO technology in its powerful sensor system FlightAutonomy 2.0.  This consists of a primary gimbal camera, forward, backward, downward dual vision sensors, downward infrared sensing system, IMU redundancies and a group of computing cores.
 
-Together, they collect information from the surrounding environment and transmit it to the high performance processor for more precise hovering and better flight performance.
+                            Together, they collect information from the surrounding environment and transmit it to the high performance processor for more precise hovering and better flight performance.
 
-The Downward Vision System helps the Mavic Air to maintain its current location. It can hover in place very precisely.  The Mavic Air Downward Vision System also allows the quadcopter to fly indoors or other environments where their is no GPS signal.
-
-The main hardware components of the Downward Vision System are 2 cameras and also a 3D Infrared module</p>
+                            The Downward Vision System helps the Mavic Air to maintain its current location. It can hover in place very precisely.  The Mavic Air Downward Vision System also allows the quadcopter to fly indoors or other environments where their is no GPS signal. The main hardware components of the Downward Vision System are 2 cameras and also a 3D Infrared module</p>
                         </div>
                         <div>
                             <h4><span class="glyphicon glyphicon-map-marker"></span> Location</h4>
-                            <div class="well"><iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Pulchowk,+Patan,+Central+Region,+Nepal&amp;aq=0&amp;oq=pulch&amp;sll=37.0625,-95.677068&amp;sspn=39.371738,86.572266&amp;ie=UTF8&amp;hq=&amp;hnear=Pulchowk,+Patan+Dhoka,+Patan,+Bagmati,+Central+Region,+Nepal&amp;ll=27.678236,85.316853&amp;spn=0.001347,0.002642&amp;t=m&amp;z=14&amp;output=embed"></iframe></div>
+                            <div class="well"><iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3953.288442946947!2d110.40780211593751!3d-7.759202631304444!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a599bd3bdc4ef%3A0x6f1714b0c4544586!2sUniversitas+Amikom+Yogyakarta!5e0!3m2!1sid!2sid!4v1530812442548"></iframe></div>
                         </div> 
                     </div>
 

@@ -29,10 +29,10 @@
                   <div class="products">
                       <div class="image-holder">
                         <img src="images/drone/phantom 3 se.png" class="img-responsive" alt="drone"/>
-                        <div class="status "></div>
+                        <div class="status"></div>
                       </div>
-                      <h4><a href="#!/products/phantom-3-se">Phantom SE</a></h4>
-                      <p class="price">Price: $234,900</p>
+                      <h4><a href="#!/products/phantom-3-se">Phantom 3 SE</a></h4>
+                      <p class="price">Price: RP.500.000</p>
                       <a class="btn btn-primary" href="#!/products/phantom-3-se">View Details</a>
                   </div>
                 </div>
@@ -41,12 +41,12 @@
                 <div class="col-lg-4 col-sm-6">
                   <div class="products">
                       <div class="image-holder">
-                        <img src="images/rentdrone/1.jpg" class="img-responsive" alt="properties"/>
-                        <div class="status sold">Sold</div>
+                        <img src="images/drone/phantom 4 pro.png" class="img-responsive" alt="drone"/>
+                        <div class="status"></div>
                       </div>
-                      <h4><a href="#!/products/product-detail">Royal Inn</a></h4>
-                      <p class="price">Price: $234,900</p>
-                      <a class="btn btn-primary" href="#!/products/product-detail">View Details</a>
+                      <h4><a href="#!/products/phantom-4-pro">Phantom 4 Pro</a></h4>
+                      <p class="price">Price: RP 500.000</p>
+                      <a class="btn btn-primary" href="#!/products/phantom-4-pro">View Details</a>
                   </div>
                 </div>
                 <!-- products -->
@@ -54,12 +54,12 @@
                 <div class="col-lg-4 col-sm-6">
                   <div class="products">
                       <div class="image-holder">
-                        <img src="images/rentdrone/1.jpg" class="img-responsive" alt="properties"/>
-                        <div class="status sold">Sold</div>
+                        <img src="images/drone/phantom 4.png" class="img-responsive" alt="drone"/>
+                        <div class="status"></div>
                       </div>
-                      <h4><a href="#!/products/product-detail">Royal Inn</a></h4>
-                      <p class="price">Price: $234,900</p>
-                      <a class="btn btn-primary" href="#!/products/product-detail">View Details</a>
+                      <h4><a href="#!/products/phantom-4">Phantom 4</a></h4>
+                      <p class="price">Price: RP 500.000</p>
+                      <a class="btn btn-primary" href="#!/products/phantom-4">View Details</a>
                   </div>
                 </div>
                 <!-- products --> 
@@ -67,12 +67,12 @@
                 <div class="col-lg-4 col-sm-6">
                   <div class="products">
                       <div class="image-holder">
-                        <img src="images/rentdrone/1.jpg" class="img-responsive" alt="properties"/>
-                        <div class="status sold">Sold</div>
+                        <img src="images/drone/phantom-fc40.jpg" class="img-responsive" alt="drone"/>
+                        <div class="status"></div>
                       </div>
-                      <h4><a href="#!/products/product-detail">Royal Inn</a></h4>
-                      <p class="price">Price: $234,900</p>
-                      <a class="btn btn-primary" href="#!/products/product-detail">View Details</a>
+                      <h4><a href="#!/products/phantom-fc40">Phantom FC40</a></h4>
+                      <p class="price">Price: RP 500.000</p>
+                      <a class="btn btn-primary" href="#!/products/phantom-fc40">View Details</a>
                   </div>
                 </div>
                 <!-- products -->
@@ -80,12 +80,12 @@
                 <div class="col-lg-4 col-sm-6">
                   <div class="products">
                       <div class="image-holder">
-                        <img src="images/rentdrone/1.jpg" class="img-responsive" alt="properties"/>
-                        <div class="status sold">Sold</div>
+                        <img src="images/drone/Phantom-3-4K.jpg" class="img-responsive" alt="drone"/>
+                        <div class="status"></div>
                       </div>
-                      <h4><a href="#!/products/product-detail">Royal Inn</a></h4>
-                      <p class="price">Price: $234,900</p>
-                      <a class="btn btn-primary" href="#!/products/product-detail">View Details</a>
+                      <h4><a href="#!/products/phantom-3">Phantom 3 4K</a></h4>
+                      <p class="price">Price: RP 500.000</p>
+                      <a class="btn btn-primary" href="#!/products/phantom-3">View Details</a>
                   </div>
                 </div>
                 <!-- products -->
@@ -93,12 +93,12 @@
                 <div class="col-lg-4 col-sm-6">
                   <div class="products">
                       <div class="image-holder">
-                        <img src="images/rentdrone/5.jpg" class="img-responsive" alt="properties"/>
-                        <div class="status sold">Sold</div>
+                        <img src="images/drone/phantom 3 advanced.jpg" class="img-responsive" alt="drone"/>
+                        <div class="status"></div>
                       </div>
-                      <h4><a href="#!/products/product-detail">Royal Inn</a></h4>
-                      <p class="price">Price: $234,900</p>
-                      <a class="btn btn-primary" href="#!/products/product-detail">View Details</a>
+                      <h4><a href="#!/products/phantom-3-advanced">Phantom 3 Advanced</a></h4>
+                      <p class="price">Price: RP 500.000</p>
+                      <a class="btn btn-primary" href="#!/products/phantom-3-advanced">View Details</a>
                   </div>
                 </div>
                 <!-- products --> 
