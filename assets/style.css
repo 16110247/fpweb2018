@@ -57,6 +57,8 @@ a.login-btn i, a.signup-btn i { margin-right: 10px;}
 .header ul li a:hover{text-decoration: none;}
 .header img{width: 150px;}
 
+
+/* NAVBAR MENU*/
 .navbar-blue{background-color: #2574A9;position: fixed; top: 0; right: 0;left: 0;width: 100%;z-index: 9999;}
 .navbar-blue .navbar-nav > li > a{font-size: 11px;padding-top: 10px;padding-bottom: 10px;font-family: din;text-transform: uppercase;color: white;}
 .navbar-blue .navbar-nav > li > a:hover{color: #2b7fb7;}
@@ -64,7 +66,7 @@ a.login-btn i, a.signup-btn i { margin-right: 10px;}
 .login {padding: 10px;}
 .login > a.login-btn, a.signup-btn {font-size: 11px;padding-left: 5px;font-family: din;text-transform: uppercase;color: white;}
 
-/*.banner-search{background:url(../images/bginside.jpg) #3498DB;color: #fff;padding: 20px 0 10px 0; font-size: 16px;}*/
+/* BANNER SEARCH*/
 .banner-search{background: #3498DB;color: #fff;padding: 20px 0 10px 0; font-size: 16px;}
 .banner-search h3{color: #fff;}
 
@@ -85,11 +87,13 @@ a.login-btn i, a.signup-btn i { margin-right: 10px;}
 .listing-detail span{color: #fff; width: 25px; height: 25px; background-color: #555;display: inline-block;border-radius:25px; text-align: center;line-height: 26px; font-size: 14px;cursor: crosshair;}
 .listing-detail span:hover{background: #72b70f;}
 
-/* status product */
+/* STATUS PRODUCT */
 .status.promo{background:rgba(102, 51, 153,0.8);}
 .status.sale{background:rgba(207, 0, 15,0.8);}
 .status.new{background:rgba(0,230,64,0.8);}
 
+
+/* RECOMENDED PRODUCT */
 .recommended{position: relative;}
 .recommended .carousel-indicators{position: absolute;text-align: left;left: 0;bottom: -40px;margin: 0;}
 .recommended .carousel-indicators li{border: 1px solid #888;}
@@ -97,13 +101,15 @@ a.login-btn i, a.signup-btn i { margin-right: 10px;}
 .recommended p{margin: 5px 0 10px 0;}
 
 
+/* MODAL LOGIN/SIGNUP */
 .modal-content{padding: 20px;}
 .login .form-group input{padding: 10px; height: 50px;}
-
 .register input{padding: 10px; height: 50px;}
 .contact input{padding: 10px; height: 50px;}
 .register input,.register textarea,.contact input,.contact textarea{ margin-bottom: 15px;}
 .login button,.register button,.contact button{border-radius: 5px;}
+
+
 
 /*inside*/
 .inside-banner{background:url(../images/bginside.jpg) #222;color: #fff; padding: 30px 0;}
@@ -116,6 +122,8 @@ a.login-btn i, a.signup-btn i { margin-right: 10px;}
 .image-holder img{height: 150px;}
 
 
+
+/* HOT PRODUCT */
 .hot-products {margin-bottom: 50px;}
 .hot-products img{width: 68px; height: 68px;}
 .hot-products h4{margin-bottom: 20px;}
@@ -172,7 +180,6 @@ a.login-btn i, a.signup-btn i { margin-right: 10px;}
 
 
 /*footer*/
-/*.footer{background:url(../images/bg.jpg) #222; padding: 20px 0; color: #999;} */
 .footer{background: #2574A9; padding: 20px 0; color: #000;} 
 
 .footer h4{color: #000;border-bottom: 2px solid #131313;margin-bottom: 10px;padding-bottom: 10px;}
@@ -201,6 +208,9 @@ a.login-btn i, a.signup-btn i { margin-right: 10px;}
 .isotope-item {  margin-right: -1px;  -webkit-backface-visibility: hidden;  backface-visibility: hidden;}
 .isotope { -webkit-backface-visibility: hidden;  backface-visibility: hidden;  -webkit-transition-property: height, width;  -moz-transition-property: height, width; transition-property: height, width;}
 .isotope .isotope-item { -webkit-backface-visibility: hidden; backface-visibility: hidden; -webkit-transition-property: -webkit-transform, opacity; -moz-transition-property: -moz-transform, opacity; transition-property: transform, opacity;}
+
+/* Gallery*/
+.width350 img{width: 250px;height: 150;}
 
 @media (max-width: 600px) {
 .header{text-align: center;}
