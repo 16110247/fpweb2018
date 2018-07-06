@@ -16,7 +16,7 @@
             <?php include'side-bar.php';?>
 
             <div class="col-lg-9 col-sm-8 ">
-                <h2>mavic-pro-platinum</h2>
+                <h2>Mavic Pro Platinum</h2>
                 <div class="row">
                     <div class="col-lg-8">
                         <div class="property-images">
@@ -33,25 +33,25 @@
                                 <div class="carousel-inner">
                                   <!-- Item 1 -->
                                   <div class="item active">
-                                    <img src="images/drone/4.jpg" class="properties" alt="properties" />
+                                    <img src="images/drone/mavic-pro-platinum.jpg" class="properties" alt="properties" />
                                   </div>
                                   <!-- #Item 1 -->
 
                                   <!-- Item 2 -->
                                   <div class="item">
-                                    <img src="images/drone/2.jpg" class="properties" alt="properties" />
+                                    <img src="images/drone/mavic-pro-platinum.jpg" class="properties" alt="properties" />
                                   </div>
                                   <!-- #Item 2 -->
 
                                   <!-- Item 3 -->
                                   <div class="item">
-                                    <img src="images/drone/1.jpg" class="properties" alt="properties" />
+                                    <img src="images/drone/mavic-pro-platinum.jpg" class="properties" alt="properties" />
                                   </div>
                                   <!-- #Item 3 -->
 
                                   <!-- Item 4 -->
                                   <div class="item ">
-                                    <img src="images/drone/3.jpg" class="properties" alt="properties" />
+                                    <img src="images/drone/mavic-pro-platinum.jpg" class="properties" alt="properties" />
                                   </div>
                                   <!-- # Item 4 -->
                                 </div>
@@ -64,10 +64,20 @@
 
                         <div class="spacer">
                             <h4><span class="glyphicon glyphicon-th-list"></span> Produk Detail</h4>
-                            <p>Phantom 4 dibekali dengan Obstacle Sensing System yang nantinya akan digunakan untuk melakukan scanni atau screening objek yang ada didepannya. Gunanya untuk menghindar secara berputar, melewati atau hovering.</p>
-                            <p>DJI Phantom 4 dibekali dengan 4 sensor yang akan membuat maksimal hovering akurasi dan ketangguhan yang akan membuat nyaman pada saat mengudara. Sonar sistem yang ditambahakn juga membuat DJI Phantom 4 lebih stabil. Pada situasi yang ideal dengan gabungan dua teknologi tersebut akan mendapatkan hasil Vision Positioning System vertical hover akurasi +/- 0.1 m dan horizontal hover akurasi menjadi +/- 0.3 m.</p>
-                            <p>Kamera yang ditanamkan pada DJI Phantom 4 telah berkembang dari segi kualitas hasil gambar. Chromatic Aberration telah berkurang 56% dan distorsi pada lensa juga turun drastis hingga 36% dibandingkan dengan Phantom 4 Professional. Firmware pada kamera telah dapat menangkap gambar hingga 120fps pada saat video 1080p FHD. Kamera Phantom 4 juga dibekali untuk penggunaan Mode ActiveTrack dan Tapfly.</p>
-                            <p>Phantom 4 dapat melakukan olah data yang didapatkan dari IMU dan melakukan navigasi dengan sendirinya dengan data yang cukup akurat.</p>
+                            <h2>Mavic Pro Platinum</h2>
+                            <p>DJI's Mavic Pro drone already has fantastic battery life, but it's still got nothing on its upgraded sibling. Announced on Thursday at IFA 2017 in Berlin, the $1,099 Mavic Pro Platinum's propellers make it 60 percent quieter than the $999 Mavic Pro, DJI said.
+
+                             It can also fly for up to 30 minutes, 11 percent longer than its predecessor "Dji Mavic Pro".
+                            The upgraded drone gets its moniker for its new "sleek platinum finish." In addition to having a longer battery life, Platinum is also 60 percent quieter than its predecessor.</p>
+                            <p>DJI says it achieved an increase in flight time and significant noise reduction by using some new internal components and freshly designed propellers.
+
+                             The good news is that the current Mavic Pro model is also compatible with the new propellers, so even older users can lessen the noise their units make.
+
+                             The Dji Mavic Pro Platinum is targeted at travelers, amateur photographers and outdoor sports enthusiasts who want a little bit more performance than the original Mavic can offer. </p>
+                             <h2>Decibel Level</h2>
+                            <p>The newly designed ESCs apply the FOC (Field Oriented Control) technology with a sine wave drive. With the new FOC technology and dedicated 8331 noise reduction propellers, the decibel level of the Mavic Pro Platinum is decreased. In the outdoor testing, we found that the Mavic Pro Platinum could fly relatively quietly as its noise power was 60% lower than the Mavic Pros.</p>
+                            <h2>Operating Efficiency</h2>
+                            <p>The overall operating efficiency of the Mavic Pro Platinum is also increased. We flew the Mavic Pro and Mavic Pro Platinum in the same scenario. It turned out that the Mavic Pro Platinum could fly up to 30 minutes (at a constant speed of 25 km/h without winds) thanks to its improved propulsion system, which is 3 minutes longer than the maximum flight time of the Mavic Pro.</p>
                         </div>
                         <div>
                             <h4><span class="glyphicon glyphicon-map-marker"></span> Location</h4>

@@ -16,7 +16,7 @@
             <?php include'side-bar.php';?>
 
             <div class="col-lg-9 col-sm-8 ">
-                <h2>mavic-pro</h2>
+                <h2>Mavic Pro</h2>
                 <div class="row">
                     <div class="col-lg-8">
                         <div class="property-images">
@@ -33,25 +33,25 @@
                                 <div class="carousel-inner">
                                   <!-- Item 1 -->
                                   <div class="item active">
-                                    <img src="images/drone/4.jpg" class="properties" alt="properties" />
+                                    <img src="images/drone/mavic-pro.jpg" class="properties" alt="properties" />
                                   </div>
                                   <!-- #Item 1 -->
 
                                   <!-- Item 2 -->
                                   <div class="item">
-                                    <img src="images/drone/2.jpg" class="properties" alt="properties" />
+                                    <img src="images/drone/mavic-pro.jpg" class="properties" alt="properties" />
                                   </div>
                                   <!-- #Item 2 -->
 
                                   <!-- Item 3 -->
                                   <div class="item">
-                                    <img src="images/drone/1.jpg" class="properties" alt="properties" />
+                                    <img src="images/drone/mavic-pro.jpg" class="properties" alt="properties" />
                                   </div>
                                   <!-- #Item 3 -->
 
                                   <!-- Item 4 -->
                                   <div class="item ">
-                                    <img src="images/drone/3.jpg" class="properties" alt="properties" />
+                                    <img src="images/drone/mavic-pro.jpg" class="properties" alt="properties" />
                                   </div>
                                   <!-- # Item 4 -->
                                 </div>
@@ -64,10 +64,25 @@
 
                         <div class="spacer">
                             <h4><span class="glyphicon glyphicon-th-list"></span> Produk Detail</h4>
-                            <p>Phantom 4 dibekali dengan Obstacle Sensing System yang nantinya akan digunakan untuk melakukan scanni atau screening objek yang ada didepannya. Gunanya untuk menghindar secara berputar, melewati atau hovering.</p>
-                            <p>DJI Phantom 4 dibekali dengan 4 sensor yang akan membuat maksimal hovering akurasi dan ketangguhan yang akan membuat nyaman pada saat mengudara. Sonar sistem yang ditambahakn juga membuat DJI Phantom 4 lebih stabil. Pada situasi yang ideal dengan gabungan dua teknologi tersebut akan mendapatkan hasil Vision Positioning System vertical hover akurasi +/- 0.1 m dan horizontal hover akurasi menjadi +/- 0.3 m.</p>
-                            <p>Kamera yang ditanamkan pada DJI Phantom 4 telah berkembang dari segi kualitas hasil gambar. Chromatic Aberration telah berkurang 56% dan distorsi pada lensa juga turun drastis hingga 36% dibandingkan dengan Phantom 4 Professional. Firmware pada kamera telah dapat menangkap gambar hingga 120fps pada saat video 1080p FHD. Kamera Phantom 4 juga dibekali untuk penggunaan Mode ActiveTrack dan Tapfly.</p>
-                            <p>Phantom 4 dapat melakukan olah data yang didapatkan dari IMU dan melakukan navigasi dengan sendirinya dengan data yang cukup akurat.</p>
+                            <p>The DJI Mavic Pro is a small yet powerful drone that turns the sky into your creative canvas easily and without worry,
+                            helping you make every moment an aerial moment. Its compact size hides a high degree of complexity that makes it one of DJI’s most
+                            sophisticated flying cameras ever. 24 high-performance computing cores, an all-new transmission system with a 4.3mi (7km) *range,
+                            5 vision sensors, and a 4K camera stabilized by a 3-axis mechanical gimbal, are at your command
+                            with just a push of your thumb or a tap of your finger.
+                            *Unobstructed, free of interference, when FCC compliant.</p>
+                            <h2>Powerful</h2>
+                            <p>FLY FURTHER
+                            Inside the Mavic’s pocket-sized remote controller is DJI’s brand new OcuSync transmission technology, with a range of 4.3mi (7km)*, HD 720p long range and Full HD 1080p short range video streaming.
+                            *Unobstructed, free of interference, when FCC compliant.</p>
+                            <p>NO BUMPS AND SCRAPES
+                            An unprotected drone could hit obstacles during long distance flight or when descending from an inadequate height in Return to Home mode. The Mavic uses FlightAutonomy technology to sense obstacles up to 49ft (15m) away and allows the Mavic to bypass them or brake to hover, reducing accidents.</p>
+                            <h2>Easy Fly</h2>
+                            <p>FLY BY PHONE
+                            Maybe all you want to do is grab a quick dronie, set up tracking to shoot a friend, or even just head skywards for a quick flight. All you need is your phone.</p>
+                            <p>TAPFLY
+                            Beginner pilots often have trouble flying in a straight line because they aren’t familiar with joysticks, which then makes shooting smooth video tricky. TapFly means you can just tap where you want to go and the Mavic will fly smoothly in that direction, so you can focus on controlling the gimbal and capturing photos and video. Flying really can be that easy</p>
+                            <h2>Dual Remote Control Mode</h2>
+                            <p>Both Master and Slave remote controllers can control the aircraft and gimbal, but the master remote controller has priority. A more experienced pilot can use the Master remote controller to override a less experienced pilot for better safety. Dual Remote Controller Mode makes it fun and easy to fly the Mavic and film aerial footage collaboratively.</p>
                         </div>
                         <div>
                             <h4><span class="glyphicon glyphicon-map-marker"></span> Location</h4>
