@@ -31,8 +31,8 @@
                         <img src="images/drone/inspire-1.jpg" class="img-responsive" alt="properties"/>
                         <div class="status disc">disc 10%</div>
                       </div>
-                      <h4><a href="#!/products/inspire-1">inspire-1</a></h4>
-                      <p class="price">Price: RP.234,900</p>
+                      <h4><a href="#!/products/inspire-1">Inspire 1</a></h4>
+                      <p class="price">Price: RP.700.000/battery</p>
                       <a class="btn btn-primary" href="#!/products/inspire-1">View Details</a>
                   </div>
                 </div>
@@ -44,8 +44,8 @@
                         <img src="images/drone/inspire-1-pro.jpg" class="img-responsive" alt="properties"/>
                         <div class="status sold">disc 10%</div>
                       </div>
-                      <h4><a href="#!/products/inspire-1-pro">inspire-1-pro</a></h4>
-                      <p class="price">Price: RP.234,900</p>
+                      <h4><a href="#!/products/inspire-1-pro">Inspire 1 Pro</a></h4>
+                      <p class="price">Price: RP.750.000/battery</p>
                       <a class="btn btn-primary" href="#!/products/inspire-1-pro">View Details</a>
                   </div>
                 </div>
@@ -57,8 +57,8 @@
                         <img src="images/drone/inspire-2.png" class="img-responsive" alt="properties"/>
                         <div class="status disc">disc 10%</div>
                       </div>
-                      <h4><a href="#!/products/inspire-2">inspire-2</a></h4>
-                      <p class="price">Price: RP.234,900</p>
+                      <h4><a href="#!/products/inspire-2">Inspire 2</a></h4>
+                      <p class="price">Price: RP.800.000/battery</p>
                       <a class="btn btn-primary" href="#!/products/inspire-2">View Details</a>
                   </div>
                 </div>
@@ -70,8 +70,8 @@
                         <img src="images/drone/mavic-air.png" class="img-responsive" alt="properties"/>
                         <div class="status disc">dics 10%</div>
                       </div>
-                      <h4><a href="#!/products/mavic-air">mavic-air</a></h4>
-                      <p class="price">Price: RP.234,900</p>
+                      <h4><a href="#!/products/mavic-air">Mavic Air</a></h4>
+                      <p class="price">Price: RP.650.000/battery</p>
                       <a class="btn btn-primary" href="#!/products/mavic-air">View Details</a>
                   </div>
                 </div>
@@ -83,9 +83,9 @@
                         <img src="images/drone/mavic-pro.jpg" class="img-responsive" alt="properties"/>
                         <div class="status disc">disc 10%</div>
                       </div>
-                      <h4><a href="#!/products/mavic-pro">mavic-pro</a></h4>
-                      <p class="price">Price: RP.234,900</p>
-                      <a class="btn btn-primary" href="#!/products/mavic-pro">View Details</a>
+                      <h4><a href="#!/products/mavic-pro-product">Mavic Pro</a></h4>
+                      <p class="price">Price: RP.600.000battery</p>
+                      <a class="btn btn-primary" href="#!/products/mavic-pro-product">View Details</a>
                   </div>
                 </div>
                 <!-- products -->
@@ -96,9 +96,9 @@
                         <img src="images/drone/mavic-pro-alpine-white.jpg" class="img-responsive" alt="properties"/>
                         <div class="status disc">disc 10%</div>
                       </div>
-                      <h4><a href="#!/products/mavic-pro-alpine-white">mavic-pro-alpine-white</a></h4>
-                      <p class="price">Price: RP.234,900</p>
-                      <a class="btn btn-primary" href="#!/products/mavic-pro-alpine-white">View Details</a>
+                      <h4><a href="#!/products/mavic-pro-alpine">Mavic Pro Alpine White</a></h4>
+                      <p class="price">Price: RP.730.000/battery</p>
+                      <a class="btn btn-primary" href="#!/products/mavic-pro-alpine">View Details</a>
                   </div>
                 </div>
                 <!-- products --> 
