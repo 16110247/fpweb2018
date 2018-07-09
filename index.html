@@ -30,6 +30,7 @@
       <script type="text/javascript" src="assets/angular/angular.min.js"></script>
       <script type="text/javascript" src="assets/angular/angular.min.js.map"></script>
       <script type="text/javascript" src="assets/angular/angular-route.min.js"></script>
+      
 
       <!-- Owl Carousel -->
       <link rel="stylesheet" href="assets/owl-carousel/owl.carousel.css"/>
@@ -50,22 +51,22 @@
 
 <!-- Angular -->
 <script>
-  var test = angular.module('myApp',['ngRoute']);
+  var myApp = angular.module('myApp',['ngRoute']);
 
-  test.directive('header',function () {
+  myApp.directive('header',function () {
     return{
       restrict  : 'A',
       templateUrl : 'header.html'
     }
   });
-  test.directive('footer',function () {
+  myApp.directive('footer',function () {
     return{
       restrict  : 'A',
       templateUrl : 'footer.html'
     }
   });
 
-  test.config(function ($routeProvider) {
+  myApp.config(function ($routeProvider) {
     $routeProvider
         // navbar-menu
         .when('/',{
@@ -95,103 +96,103 @@
           templateUrl : 'blogdetail.php'
         })
         .when('/phantom4-prov2',{
-          templateUrl : 'phantom4-prov2.php'
+          templateUrl : 'phantom4-prov2.html'
         })
         .when('/inspire2',{
-          templateUrl : 'inspire2.php'
+          templateUrl : 'inspire2.html'
         })
         .when('/spark',{
-          templateUrl : 'spark.php'
+          templateUrl : 'spark.html'
         })
         .when('/mavic-air',{
-          templateUrl : 'mavic-air.php'
+          templateUrl : 'mavic-air.html'
         })
 
         // products
         .when('/products',{
-          templateUrl : 'allproducts.php'
+          templateUrl : 'allproducts.html'
         })
         .when('/products/product-detail',{
           templateUrl : 'product-detail.php'
         })
         .when('/products/promo',{
-          templateUrl : 'promo.php'
+          templateUrl : 'promo.html'
         })
         .when('/products/rent',{
-          templateUrl : 'rent.php'
+          templateUrl : 'rent.html'
         })
         .when('/products/sale',{
-          templateUrl : 'sale.php'
+          templateUrl : 'sale.html'
         })
         .when('/products/inspire-1',{
-          templateUrl : 'inspire-1.php'
+          templateUrl : 'inspire-1.html'
         })
         .when('/products/inspire-1-pro',{
-          templateUrl : 'inspire-1-pro.php'
+          templateUrl : 'inspire-1-pro.html'
         })
         .when('/products/inspire-2',{
-          templateUrl : 'inspire-2.php'
+          templateUrl : 'inspire-2.html'
         })
         .when('/products/mavic-air',{
-          templateUrl : 'mavic-air-product.php'
+          templateUrl : 'mavic-air-product.html'
         })
         .when('/products/mavic-pro-alpine',{
-          templateUrl : 'mavic-pro-alpine-white.php'
+          templateUrl : 'mavic-pro-alpine-white.html'
         })
         .when('/products/mavic-pro-platinum',{
-          templateUrl : 'mavic-pro-platinum-product.php'
+          templateUrl : 'mavic-pro-platinum-product.html'
         })
         .when('/products/mavic-pro-product',{
-          templateUrl : 'mavic-pro-product.php'
+          templateUrl : 'mavic-pro-product.html'
         })
         .when('/products/phantom-2-vision',{
-          templateUrl : 'phantom-2-vision.php'
+          templateUrl : 'phantom-2-vision.html'
         })
         .when('/products/phantom-1',{
-          templateUrl : 'phantom-1.php'
+          templateUrl : 'phantom-1.html'
         })
         .when('/products/phantom-2',{
-          templateUrl : 'phantom-2.php'
+          templateUrl : 'phantom-2.html'
         })
         .when('/products/phantom-3',{
-          templateUrl : 'phantom-3-4K.php'
+          templateUrl : 'phantom-3-4K.html'
         })
         .when('/products/phantom-3-advanced',{
-          templateUrl : 'phantom-3-advanced-product.php'
+          templateUrl : 'phantom-3-advanced-product.html'
         })
         .when('/products/phantom-3-pro',{
-          templateUrl : 'phantom-3-profesional-product.php'
+          templateUrl : 'phantom-3-profesional-product.html'
         })
         .when('/products/phantom-3-se',{
-          templateUrl : 'phantom-3-se.php'
+          templateUrl : 'phantom-3-se.html'
         })
         .when('/products/phantom-3-standard',{
-          templateUrl : 'phantom-3-standard.php'
+          templateUrl : 'phantom-3-standard.html'
         })
         .when('/products/phantom-4-advanced',{
-          templateUrl : 'phantom-4-advanced.php'
+          templateUrl : 'phantom-4-advanced.html'
         })
         .when('/products/phantom-4-pro-v2',{
-          templateUrl : 'phantom-4-pro-v2.0.php'
+          templateUrl : 'phantom-4-pro-v2.0.html'
         })
         .when('/products/phantom-4-pro',{
-          templateUrl : 'phantom-4-pro.php'
+          templateUrl : 'phantom-4-pro.html'
         })
         .when('/products/phantom-4',{
-          templateUrl : 'phantom-4.php'
+          templateUrl : 'phantom-4.html'
         })
         .when('/products/phantom-fc40',{
-          templateUrl : 'phantom-fc40.php'
+          templateUrl : 'phantom-fc40.html'
         })
-        .when('/products/phantom4-prov2',{
-          templateUrl : 'phantom4-prov2.php'
+        .when('/products/spark-product',{
+          templateUrl : 'spark-product.html'
         })
 
 
 
         // login&signup
         .when('/myaccount',{
-          templateUrl : 'my-account.php'
+          templateUrl : 'my-account.html'
         })
         .when('/register',{
           templateUrl : 'register.php'
@@ -199,15 +200,15 @@
 
         // account
         .when('/settings',{
-          templateUrl : 'settings.php'
+          templateUrl : 'settings.html'
         })
         .when('/booking',{
-          templateUrl : 'customer-bookings.php'
+          templateUrl : 'customer-bookings.html'
         })
         .when('/booking-detail',{
-          templateUrl : 'book-details.php'
+          templateUrl : 'book-details.html'
         })
-
+        
         .otherwise({redirectTo: '/'
         })
   });

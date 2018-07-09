@@ -1,14 +1,43 @@
 
+body {	
+  color:#555;	
+  font:normal 13px/22px Arial;	
+  background:url(../images/bgmain.png) #eee;
+}
 
-body {	color:#555;	font:normal 13px/22px Arial;	background:url(../images/bgmain.png) #eee;}
-
-h1,h2,h3,h4,h5 { font-weight:normal; font-family: din;margin: 0;padding: 0;color: #000}
-h1{font-size: 60px; margin-bottom: 25px;color: #fff;}
-h2{font-size: 35px; letter-spacing: -1px;margin-bottom: 20px;}
-h3{margin: 0 0 15px 0; font-size: 25px;}
-h4{margin: 10px 0; font-size: 19px;}
-h5{margin: 0 0 5px 0; font-size: 17px;}
-h6{margin: 0 0 10px 0; font-size: 14px;}
+h1,h2,h3,h4,h5 { 
+  font-weight:normal; 
+  font-family: din;
+  margin: 0;
+  padding: 0;
+  color: #000;
+}
+h1{
+  font-size: 60px; 
+  margin-bottom: 25px;
+  color: #fff;
+}
+h2{
+  font-size: 35px; 
+  letter-spacing: -1px;
+  margin-bottom: 20px;
+}
+h3{
+  margin: 0 0 15px 0; 
+  font-size: 25px;
+}
+h4{
+  margin: 10px 0; 
+  font-size: 19px;
+}
+h5{
+  margin: 0 0 5px 0; 
+  font-size: 17px;
+}
+h6{
+  margin: 0 0 10px 0; 
+  font-size: 14px;
+}
 
 h4 span{margin-right: 5px; font-size: 15px;}
 h6 span{margin-right: 5px; font-size: 12px;}
@@ -27,6 +56,7 @@ a.more:hover{background: #64a30a;text-decoration: none;}
 table{background-color: #fff;}
 .right{float: right;}
 
+/*========== BUTTON ==========*/
 .btn{border-radius: 5px; font-family: din; outline: none;}
 .btn-success{ background: #72b70f;border:1px solid #72b70f;padding:6px 20px; font-size:16px; }
 .btn-primary{ background: #64a30a;border:none;width: 100%;border-radius: 20px;}
@@ -38,7 +68,6 @@ table{background-color: #fff;}
   border-radius: 0 !important;
   text-decoration: none;
 }
-
 .btn-template-outlined:hover, .btn-template-outlined:focus {
   background: #2b7fb7;
   color: #fff !important;
@@ -50,6 +79,7 @@ a.login-btn i, a.signup-btn i { margin-right: 10px;}
 
 .thumbnail{ background-color:#fff;}
 
+/*========= HEADER =========*/
 .header {padding: 15px 0;margin-top: 40px;}
 .header ul{list-style: none;margin: 0; padding: 0;margin-top: 25px;}
 .header ul li{ display: inline-block; padding: 0 0 0 40px;}
@@ -58,9 +88,9 @@ a.login-btn i, a.signup-btn i { margin-right: 10px;}
 .header img{width: 150px;}
 
 
-/* NAVBAR MENU*/
+/*========== NAVBAR MENU ==========*/
 .navbar-blue{background-color: #2574A9;position: fixed; top: 0; right: 0;left: 0;width: 100%;z-index: 9999;}
-.navbar-blue .navbar-nav > li > a{font-size: 11px;padding-top: 10px;padding-bottom: 10px;font-family: din;text-transform: uppercase;color: white;}
+.navbar-blue .navbar-nav > li > a{font-size: 12px;padding-top: 10px;padding-bottom: 10px;font-family: din;text-transform: uppercase;color: white;}
 .navbar-blue .navbar-nav > li > a:hover{color: #2b7fb7;}
 .navbar-blue .navbar-nav > .active > a, .navbar-blue .navbar-nav > .active > a:hover, .navbar-blue .navbar-nav > .active > a:focus{background-color: #2574A9;color:#2574A9; }
 .login {padding: 10px;}
@@ -70,14 +100,22 @@ a.login-btn i, a.signup-btn i { margin-right: 10px;}
 .banner-search{background: #3498DB;color: #fff;padding: 20px 0 10px 0; font-size: 16px;}
 .banner-search h3{color: #fff;}
 
-
+/*========== PRODUCT ==========*/
 .products-listing .viewall{margin-top: 15px;}
 .products-listing div.products{padding: 10px; background-color: #fff;text-align: center; margin-bottom: 20px;}
 .owl-wrapper-outer div.products{margin: 0 5px;}
 .products-listing div.products .image-holder{position: relative;}
-.products-listing div.products .status{position: absolute;bottom: 0;z-index: 100;display: block;width: 100%;color: #fff;padding:0 3px;text-align: right; font-size: 12px;}
+.products-listing div.products .status{
+  position: absolute;
+  bottom: 0;
+  z-index: 100;
+  display: block;
+  width: 100%;
+  color: #fff;
+  padding:0 3px;
+  text-align: right; 
+  font-size: 12px;}
 .products-listing div.products p{margin-bottom: 10px; font-size: 14px;border-top: 1px solid #ddd;border-bottom: 1px solid #ddd;padding: 5px 0;font-family: din;}
-
 .products-main div.products{padding: 10px; background-color: #fff;text-align: center; margin-bottom: 20px;}
 .products-main div.products .image-holder{position: relative;}
 .products-main div.products .status{position: absolute;bottom: 0;z-index: 100;display: block;width: 100%;color: #fff;padding:0 3px;text-align: right; font-size: 12px;}
